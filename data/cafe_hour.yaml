@@ -1,0 +1,174 @@
+title: カフェアワー
+category: cafe
+last_checked: 2026-07-23
+source: https://www.member.myluxurycard.co.jp/serviceinfo/dining/cafe
+venues:
+  - active: true
+    name: バーラウンジ（ホテル創成札幌 Mギャラリーコレクション内）
+    official_url: https://www.member.myluxurycard.co.jp/diningdetail/%E3%83%90%E3%83%BC%E3%83%A9%E3%82%A6%E3%83%B3%E3%82%B8(%E3%83%9B%E3%83%86%E3%83%AB%E5%89%B5%E6%88%90%E6%9C%AD%E5%B9%8C-m%E3%82%AE%E3%83%A3%E3%83%A9%E3%83%AA%E3%83%BC%E3%82%B3%E3%83%AC%E3%82%AF%E3%82%B7%E3%83%A7%E3%83%B3%E5%86%85)
+    area: 札幌
+    prefecture: 北海道
+    region: 北海道
+    benefit: お一人様2,500円（税・サービス料込）で、日替わり軽食と専用ドリンクメニューのフリーフロー
+    hours: Black Diamond・Gold・Blackは月〜金、Titaniumは月〜木／15:00〜17:00
+  - active: true
+    name: ル・プリスティン東京
+    official_url: https://www.member.myluxurycard.co.jp/diningdetail/%E3%83%AB%E3%83%BB%E3%83%97%E3%83%AA%E3%82%B9%E3%83%86%E3%82%A3%E3%83%B3%E6%9D%B1%E4%BA%AC
+    area: 虎ノ門
+    prefecture: 東京都
+    region: 関東
+    benefit: 通常のアフタヌーンティー料金で、オリジナルモクテル付きのLC会員限定プランを提供
+    hours: 平日 14:00〜17:00
+  - active: true
+    name: ONE BY ONE COFFEE TOKYO
+    official_url: https://www.member.myluxurycard.co.jp/diningdetail/one-by-one-coffee-tokyo
+    area: 恵比寿
+    prefecture: 東京都
+    region: 関東
+    benefit: 全メニューを通常価格から500円割引。Black Diamond・Goldは毎日、Black・Titaniumは月1回
+    hours: 平日 8:00〜18:00／土日 8:00〜19:00
+  - active: true
+    name: RainDrop-ginza
+    official_url: https://www.member.myluxurycard.co.jp/diningdetail/raindrop-ginza
+    area: 銀座
+    prefecture: 東京都
+    region: 関東
+    benefit: コーヒー1杯無料。Black Diamond・Goldは毎日、Blackは月2回、Titaniumは月1回
+    hours: 月〜土 16:00〜21:00
+  - active: true
+    name: LEDIAN lounge
+    official_url: https://www.member.myluxurycard.co.jp/diningdetail/ledianlounge
+    area: 恵比寿
+    prefecture: 東京都
+    region: 関東
+    benefit: 対象ドリンク1杯とチャージ料が無料。Black Diamond・Goldは毎日、Blackは月2回、Titaniumは月1回
+    hours: 全日 15:00〜翌5:00
+  - active: true
+    name: STREAMER COFFEE COMPANY 中目黒店
+    official_url: https://www.member.myluxurycard.co.jp/diningdetail/streamer-coffee-company-%E4%B8%AD%E7%9B%AE%E9%BB%92%E5%BA%97
+    area: 中目黒
+    prefecture: 東京都
+    region: 関東
+    benefit: ドリップ、アメリカーノ、ストリーマーラテ、紅茶から1杯無料。Black Diamond・Goldは1日1回、Blackは月1回、Titaniumは四半期に1回
+    hours: 全日 8:30〜19:00
+  - active: true
+    name: カフェ＆バーWONDERFUL LIFE
+    official_url: https://www.member.myluxurycard.co.jp/diningdetail/%E3%82%AB%E3%83%95%E3%82%A7%EF%BC%86%E3%83%90%E3%83%BCwonderful-life
+    area: 西麻布
+    prefecture: 東京都
+    region: 関東
+    benefit: ソフトドリンク1杯無料。バータイムはチャージ料も無料。Black Diamond・Goldは毎日、Blackは月2回、Titaniumは月1回
+    hours: カフェ 12:00〜16:00／バー 18:00〜24:00（日曜定休）
+  - active: true
+    name: レストラン ラ メゾン キオイ / 赤坂プリンスクラシックハウス
+    official_url: https://www.member.myluxurycard.co.jp/diningdetail/%E3%83%AC%E3%82%B9%E3%83%88%E3%83%A9%E3%83%B3-%E3%83%A9-%E3%83%A1%E3%82%BE%E3%83%B3-%E3%82%AD%E3%82%AA%E3%82%A4-%2F-%E8%B5%A4%E5%9D%82%E3%83%97%E3%83%AA%E3%83%B3%E3%82%B9%E3%82%AF%E3%83%A9%E3%82%B7%E3%83%83%E3%82%AF%E3%83%8F%E3%82%A6%E3%82%B9
+    area: 紀尾井町
+    prefecture: 東京都
+    region: 関東
+    benefit: クラシックアフタヌーンティーをLC会員価格で提供。平日5,400円、土日祝6,300円（税込・サービス料別）
+    hours: 平日 14:00以降／土日祝 15:30以降
+    notice: 2026年8月1日〜10月2日は改装工事のため優待利用不可
+  - active: true
+    name: Constellation.
+    official_url: https://www.member.myluxurycard.co.jp/diningdetail/constellation
+    area: 横浜
+    prefecture: 神奈川県
+    region: 関東
+    benefit: アフタヌーンティー利用時、通常有料の紅茶アップグレードが無料
+    hours: 12:00〜14:00、15:00〜17:00の二部制／18:00〜24:00（LO 23:00）
+  - active: true
+    name: 横浜茶寮⻘寂-SEISEKI-by NOT TEA
+    official_url: https://www.member.myluxurycard.co.jp/diningdetail/%E6%A8%AA%E6%B5%9C%E8%8C%B6%E5%AF%AE%E2%BB%98%E5%AF%82-seiseki-by-not-tea
+    area: 横浜
+    prefecture: 神奈川県
+    region: 関東
+    benefit: ドリンク1杯無料。Black Diamond・Goldは毎日、Blackは月2回、Titaniumは月1回
+    hours: 金・土・日 11:00〜23:00（月〜木定休）
+  - active: true
+    name: Slow Rush Coffee
+    official_url: https://www.member.myluxurycard.co.jp/diningdetail/slow-rush-coffee
+    area: 湘南・鎌倉
+    prefecture: 神奈川県
+    region: 関東
+    benefit: カフェドリンク1杯無料。Black Diamond・Goldは毎日、Blackは月2回、Titaniumは月1回
+    hours: 11:00〜18:00（火曜定休）
+  - active: true
+    name: KINO WINE SHOP & CAFE DINING
+    official_url: https://www.member.myluxurycard.co.jp/diningdetail/kino--wine-shop-%26-cafe-dininig
+    area: 湘南・鎌倉
+    prefecture: 神奈川県
+    region: 関東
+    benefit: コーヒー1杯無料
+    hours: 毎日（定休日を除く）11:30〜17:30
+  - active: true
+    name: 名古屋マリオットアソシアホテル
+    official_url: https://www.member.myluxurycard.co.jp/diningdetail/%E5%90%8D%E5%8F%A4%E5%B1%8B%E3%83%9E%E3%83%AA%E3%82%AA%E3%83%83%E3%83%88%E3%82%A2%E3%82%BD%E3%82%B7%E3%82%A2%E3%83%9B%E3%83%86%E3%83%AB
+    area: 名駅
+    prefecture: 愛知県
+    region: 東海
+    benefit: デザートセット3,000円、またはカクテル2杯とアミューズのアペリティフプラン5,000円（税・サービス料込）
+    hours: Black Diamond・Gold・Blackは毎日、Titaniumは月〜木／17:00〜20:00（LO 19:30）
+  - active: true
+    name: コンラッド大阪
+    official_url: https://www.member.myluxurycard.co.jp/diningdetail/%E3%82%B3%E3%83%B3%E3%83%A9%E3%83%83%E3%83%89%E5%A4%A7%E9%98%AA
+    area: 中之島
+    prefecture: 大阪府
+    region: 関西
+    benefit: コンラッドアフタヌーンティー9,000円、またはデザートバーのLC限定コース8,000円〜15,000円（税・サービス料込）。プランによりウェルカムドリンクやコンラッドベア付き
+    hours: 全会員対象。アフタヌーンティープランは平日12:00まで
+  - active: true
+    name: カフェ＆バー「コルディアル」（ホテルプラザオーサカ内）
+    official_url: https://www.member.myluxurycard.co.jp/diningdetail/%E3%82%B3%E3%83%AB%E3%83%87%E3%82%A3%E3%82%A2%E3%83%AB
+    area: 十三
+    prefecture: 大阪府
+    region: 関西
+    benefit: 650円相当の対象ドリンク1杯無料。650円を超えるドリンクは差額支払いで利用可能
+    hours: 全会員・毎日／9:00〜23:30（LO 23:00）
+  - active: true
+    name: スモーク&スピン / センタラグランドホテル大阪内
+    official_url: https://www.member.myluxurycard.co.jp/diningdetail/%E3%82%B9%E3%83%A2%E3%83%BC%E3%82%AF%26%E3%82%B9%E3%83%94%E3%83%B3-%2F-%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%A9%E3%82%B0%E3%83%A9%E3%83%B3%E3%83%89%E3%83%9B%E3%83%86%E3%83%AB%E5%A4%A7%E9%98%AA%E5%86%85
+    area: 難波
+    prefecture: 大阪府
+    region: 関西
+    benefit: アフタヌーンティーを通常6,800円のところ5,540円（税・サービス料込）で提供
+    hours: 全会員・いつでも／12:00または14:30からの二部制
+  - active: true
+    name: ano
+    official_url: https://www.member.myluxurycard.co.jp/diningdetail/ano
+    area: 表町
+    prefecture: 岡山県
+    region: 中国
+    benefit: 対象ソフトドリンク無料。Black Diamond・Goldは毎日、Blackは月2回、Titaniumは月1回
+    hours: 14:00〜20:00
+  - active: true
+    name: Lonich, Fukuoka
+    official_url: https://www.member.myluxurycard.co.jp/diningdetail/lonich%2C-fukuoka
+    area: 福岡
+    prefecture: 福岡県
+    region: 九州
+    benefit: 対象ドリンク1杯無料。Black Diamond・Goldは毎日、Blackは月2回、Titaniumは月1回
+    hours: 平日 9:00〜17:00／土日祝 9:00〜19:00
+  - active: true
+    name: NOAM
+    official_url: https://www.member.myluxurycard.co.jp/diningdetail/noam
+    area: 那覇
+    prefecture: 沖縄県
+    region: 沖縄
+    benefit: 対象ソフトドリンク1杯無料（スムージーを除く）。Black Diamond・Goldは毎日、Blackは月2回、Titaniumは月1回
+    hours: 9:30〜16:30（LO 16:00）
+  - active: true
+    name: 1 LAB Hello, VACAY! （イラブ ハローバケイ）
+    official_url: https://www.member.myluxurycard.co.jp/diningdetail/1-lab-hello-vacay
+    area: 伊良部
+    prefecture: 沖縄県
+    region: 沖縄
+    benefit: 全カード会員を対象に、ソフトドリンク1杯無料
+    hours: 全日 11:00〜17:00（LO 16:30、定休日・店舗休日を除く）
+  - active: true
+    name: A LONG VACATION.（オールデイダイニング）
+    official_url: https://www.member.myluxurycard.co.jp/diningdetail/a-long-vacation
+    area: 那覇
+    prefecture: 沖縄県
+    region: 沖縄
+    benefit: ソフトドリンク1杯無料。Black Diamond・Goldは毎日、Blackは月2回、Titaniumは月1回
+    hours: 平日限定 8:00〜17:00

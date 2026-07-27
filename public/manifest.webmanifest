@@ -1,0 +1,11 @@
+{
+  "name": "LC Benefits",
+  "short_name": "LC Benefits",
+  "description": "ラグジュアリーカード優待の非公式ガイド",
+  "start_url": "/?category=cafe&view=list",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#f4f1e9",
+  "theme_color": "#171714",
+  "lang": "ja"
+}

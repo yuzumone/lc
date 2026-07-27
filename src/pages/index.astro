@@ -1,0 +1,265 @@
+---
+import BenefitCard from "../components/BenefitCard.astro";
+import BaseLayout from "../layouts/BaseLayout.astro";
+import {
+  activeVenues,
+  groupByPrefecture,
+  loadBenefitCollections,
+} from "../lib/benefits";
+
+const collections = loadBenefitCollections();
+const mapUrl = import.meta.env.PUBLIC_MYMAP_URL?.trim() ?? "";
+const description =
+  "ラグジュアリーカードのカフェ、ラウンジ、ダイニングなどの優待対象店舗を一覧と地図で確認できる非公式ガイドです。";
+---
+
+<BaseLayout
+  title="LC Benefits | ラグジュアリーカード優待ガイド"
+  description={description}
+  pageClass="app-page"
+>
+  <div class="app-shell" data-app>
+    <header class="app-header">
+      <div class="header-inner">
+        <div class="brand" aria-label="LC Benefits">
+          <span class="brand-mark">LC</span>
+          <div>
+            <span class="brand-name">BENEFITS</span>
+            <span class="brand-subtitle">Unofficial guide</span>
+          </div>
+        </div>
+      </div>
+    </header>
+
+    <nav class="category-nav" aria-label="優待カテゴリ">
+      <div class="category-tabs" role="tablist" aria-label="優待カテゴリ">
+        {
+          collections.map(({ definition }, index) => (
+            <button
+              type="button"
+              class="category-tab"
+              role="tab"
+              id={`tab-${definition.key}`}
+              aria-controls={`list-${definition.key}`}
+              aria-selected={index === 0 ? "true" : "false"}
+              tabindex={index === 0 ? "0" : "-1"}
+              data-category-tab={definition.key}
+            >
+              <span class="tab-label">{definition.label}</span>
+              <span class="tab-short-label">{definition.shortLabel}</span>
+            </button>
+          ))
+        }
+      </div>
+    </nav>
+
+    <main class="app-content">
+      <div class="list-view" data-view-panel="list">
+        {
+          collections.map((collection, index) => {
+            const venues = activeVenues(collection);
+            const prefectures = groupByPrefecture(venues);
+            return (
+              <section
+                class="category-list"
+                id={`list-${collection.category}`}
+                role="tabpanel"
+                aria-labelledby={`tab-${collection.category}`}
+                data-category-panel={collection.category}
+                hidden={index !== 0}
+              >
+                <div class="list-intro">
+                  <div>
+                    <p class="eyebrow">CURRENT BENEFITS</p>
+                    <h1>{collection.title}</h1>
+                  </div>
+                  <p class="venue-count">
+                    <strong>{venues.length}</strong>
+                    <span>件掲載</span>
+                  </p>
+                </div>
+                {prefectures.map(([prefecture, prefectureVenues]) => (
+                  <section class="prefecture-section">
+                    <div class="section-heading">
+                      <h2>{prefecture}</h2>
+                      <span>{prefectureVenues.length}</span>
+                    </div>
+                    <div class="card-list">
+                      {prefectureVenues.map((venue) => (
+                        <BenefitCard venue={venue} />
+                      ))}
+                    </div>
+                  </section>
+                ))}
+                <footer class="site-note">
+                  <p>
+                    本サイトはラグジュアリーカード公式とは関係のない非公式の個人運営サイトです。
+                    優待内容は変更される場合があります。利用前に公式会員ページで最新情報をご確認ください。
+                  </p>
+                </footer>
+              </section>
+            );
+          })
+        }
+      </div>
+
+      <div class="map-view" data-view-panel="map" hidden>
+        <section
+          class="map-panel"
+          data-map-panel
+          data-map-url={mapUrl}
+          aria-label="優待対象店舗の地図"
+        >
+          <div class="map-loading" data-map-placeholder>
+            <span class="map-pin" aria-hidden="true">●</span>
+            <p>優待対象店舗の地図は準備中です。</p>
+            <small>優待対象店舗はリストで確認できます。</small>
+          </div>
+        </section>
+        <noscript>
+          <p class="noscript-note">
+            地図の表示切り替えにはJavaScriptが必要です。優待一覧はJavaScriptなしでもご覧いただけます。
+          </p>
+        </noscript>
+      </div>
+    </main>
+
+    <div class="bottom-toolbar" role="toolbar" aria-label="表示切り替え">
+      <button
+        type="button"
+        class="view-button is-selected"
+        data-view-button="list"
+        aria-pressed="true"
+      >
+        <span class="view-icon list-icon" aria-hidden="true"><i></i><i></i><i></i></span>
+        <span>リスト</span>
+      </button>
+      <button
+        type="button"
+        class="view-button"
+        data-view-button="map"
+        aria-pressed="false"
+      >
+        <span class="view-icon map-icon" aria-hidden="true">⌖</span>
+        <span>マップ</span>
+      </button>
+    </div>
+  </div>
+
+  <script>
+    import { parseState, stateUrl, type AppState } from "../lib/state";
+
+    const app = document.querySelector<HTMLElement>("[data-app]");
+    if (!app) throw new Error("App root was not found");
+
+    const tabs = [
+      ...app.querySelectorAll<HTMLButtonElement>("[data-category-tab]"),
+    ];
+    const categoryPanels = [
+      ...app.querySelectorAll<HTMLElement>("[data-category-panel]"),
+    ];
+    const mapPanel =
+      app.querySelector<HTMLElement>("[data-map-panel]");
+    const viewPanels = [
+      ...app.querySelectorAll<HTMLElement>("[data-view-panel]"),
+    ];
+    const viewButtons = [
+      ...app.querySelectorAll<HTMLButtonElement>("[data-view-button]"),
+    ];
+    let state = parseState(window.location.search);
+
+    function ensureMap() {
+      if (!mapPanel || mapPanel.dataset.loaded === "true") return;
+      const mapUrl = mapPanel.dataset.mapUrl;
+      if (!mapUrl) return;
+
+      const frame = document.createElement("iframe");
+      frame.src = mapUrl;
+      frame.title = "優待対象店舗のGoogle マイマップ";
+      frame.loading = "lazy";
+      frame.referrerPolicy = "strict-origin-when-cross-origin";
+      frame.allowFullscreen = true;
+      mapPanel.replaceChildren(frame);
+      mapPanel.dataset.loaded = "true";
+    }
+
+    function render(nextState: AppState, options: { focus?: boolean } = {}) {
+      state = nextState;
+      tabs.forEach((tab) => {
+        const selected = tab.dataset.categoryTab === state.category;
+        tab.setAttribute("aria-selected", String(selected));
+        tab.tabIndex = selected ? 0 : -1;
+        if (selected && options.focus) tab.focus();
+      });
+      categoryPanels.forEach((panel) => {
+        panel.hidden = panel.dataset.categoryPanel !== state.category;
+      });
+      viewPanels.forEach((panel) => {
+        panel.hidden = panel.dataset.viewPanel !== state.view;
+      });
+      viewButtons.forEach((button) => {
+        const selected = button.dataset.viewButton === state.view;
+        button.classList.toggle("is-selected", selected);
+        button.setAttribute("aria-pressed", String(selected));
+      });
+      if (state.view === "map") ensureMap();
+    }
+
+    function navigate(nextState: AppState) {
+      if (
+        nextState.category === state.category &&
+        nextState.view === state.view
+      ) return;
+      history.pushState(nextState, "", stateUrl(nextState, window.location.href));
+      render(nextState);
+    }
+
+    tabs.forEach((tab, tabIndex) => {
+      tab.addEventListener("click", () => {
+        navigate({
+          ...state,
+          category: tab.dataset.categoryTab as AppState["category"],
+        });
+      });
+      tab.addEventListener("keydown", (event) => {
+        if (!["ArrowLeft", "ArrowRight", "Home", "End"].includes(event.key)) {
+          return;
+        }
+        event.preventDefault();
+        let nextIndex = tabIndex;
+        if (event.key === "ArrowLeft") {
+          nextIndex = (tabIndex - 1 + tabs.length) % tabs.length;
+        } else if (event.key === "ArrowRight") {
+          nextIndex = (tabIndex + 1) % tabs.length;
+        } else if (event.key === "Home") {
+          nextIndex = 0;
+        } else if (event.key === "End") {
+          nextIndex = tabs.length - 1;
+        }
+        const nextTab = tabs[nextIndex];
+        navigate({
+          ...state,
+          category: nextTab.dataset.categoryTab as AppState["category"],
+        });
+        nextTab.focus();
+      });
+    });
+
+    viewButtons.forEach((button) => {
+      button.addEventListener("click", () => {
+        navigate({
+          ...state,
+          view: button.dataset.viewButton as AppState["view"],
+        });
+      });
+    });
+
+    window.addEventListener("popstate", () => {
+      render(parseState(window.location.search));
+    });
+
+    const normalizedUrl = stateUrl(state, window.location.href);
+    history.replaceState(state, "", normalizedUrl);
+    render(state);
+  </script>
+</BaseLayout>

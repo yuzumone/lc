@@ -1,0 +1,481 @@
+title: ラグジュアリーリムジン
+category: limousine
+last_checked: 2026-07-24
+source: https://www.member.myluxurycard.co.jp/serviceinfo/dining/limousine
+venues:
+  - active: true
+    name: "EMPIRE STEAK HOUSE ROPPONGI（エンパイアステーキハウス六本木）"
+    official_url: https://www.member.myluxurycard.co.jp/diningdetail/empire-steak-house-roppongi%EF%BC%88%E3%82%A8%E3%83%B3%E3%83%91%E3%82%A4%E3%82%A2%E3%82%B9%E3%83%86%E3%83%BC%E3%82%AD%E3%83%8F%E3%82%A6%E3%82%B9%E5%85%AD%E6%9C%AC%E6%9C%A8%EF%BC%89
+    area: "六本木"
+    prefecture: "東京都"
+    region: "関東"
+    benefit: "対象コース（エンペラーステーキコース、季節のキング・オブ・ステーキコース：コース 23,800円、25,800円(税込・サービス料10%別)）の予約で、Black Diamond／Goldは往路または復路、Blackは往路の片道ハイヤー送迎"
+    hours: "ディナー 平日・金・土17:00～23:30（LO：Food 22:30/Drink 23:00）/ 日・祝日　17:00～23:00（LO：Food 22:00/Drink 22:30）／利用希望日時の72時間前までにコンシェルジュ経由で要予約"
+  - active: true
+    name: "C:GRILL"
+    official_url: https://www.member.myluxurycard.co.jp/diningdetail/c%3Agrill
+    area: "中之島"
+    prefecture: "大阪府"
+    region: "関西"
+    benefit: "対象コース（ディナーコース：関西ローカルガストロノミー 19,000円（税・サ料込））の予約で、Black Diamond／Goldは往路または復路、Blackは往路の片道ハイヤー送迎"
+    hours: "ディナー：【水曜〜日曜】17:30～LO20:30／利用希望日時の72時間前までにコンシェルジュ経由で要予約／1組（4名様まで）／キャンセルポリシー：3日前〜100%／ご予約の内容に変更がある場合、前日までに必ずご連絡ください。／テーブル席 40席(個室1室、8名含む)、カウンター席9席"
+  - active: true
+    name: "無垢"
+    official_url: https://www.member.myluxurycard.co.jp/diningdetail/%E3%80%90260424%E3%80%91%E7%84%A1%E5%9E%A2
+    area: "西麻布"
+    prefecture: "東京都"
+    region: "関東"
+    benefit: "対象コース（おまかせコース：27,500円（税込・サ料10%別））の予約で、Black Diamond／Goldは往路または復路、Blackは往路の片道ハイヤー送迎"
+    hours: "火、水、木、金／各日 17:30／20:30 開始（いずれも一斉スタート）／利用希望日時の72時間前までにコンシェルジュ経由で要予約"
+  - active: true
+    name: "amphis"
+    official_url: https://www.member.myluxurycard.co.jp/diningdetail/amphis
+    area: "西麻布"
+    prefecture: "東京都"
+    region: "関東"
+    benefit: "対象コース（おまかせコース：30,250円（税込・サ料10%別））の予約で、Black Diamond／Goldは往路または復路、Blackは往路の片道ハイヤー送迎"
+    hours: "火、水、木、金／各日 17:30／20:30 開始（いずれも一斉スタート）／利用希望日時の72時間前までにコンシェルジュ経由で要予約"
+  - active: true
+    name: "銀座凛にしむら"
+    area: "銀座"
+    prefecture: "東京都"
+    region: "関東"
+    benefit: "対象コース（ディナーコース：おまかせ 36,300円（税込・サ料別）〜）の予約で、Black Diamond／Goldは往路または復路、Blackは往路の片道ハイヤー送迎"
+    hours: "18:00〜19:00の間のご予約／利用希望日時の72時間前までにコンシェルジュ経由で要予約／ご予約日の2日前より、キャンセル料としてご予約コース料金（ご人数分）の100％を頂戴いたします。"
+  - active: true
+    name: "辻留"
+    official_url: https://www.member.myluxurycard.co.jp/diningdetail/%E8%BE%BB%E7%95%99
+    area: "赤坂"
+    prefecture: "東京都"
+    region: "関東"
+    benefit: "対象コース（ディナーコース：懐石料理コース 30,000円（税込・サ料15%別）〜50,000円（税込・サ料15%別））の予約で、Black Diamond／Goldは往路または復路、Blackは往路の片道ハイヤー送迎"
+    hours: "17:00～21:00／利用希望日時の72時間前までにコンシェルジュ経由で要予約"
+  - active: true
+    name: "le sputnik （ル スプートニク）"
+    area: "六本木"
+    prefecture: "東京都"
+    region: "関東"
+    benefit: "対象コース（ディナーコース：21,780円（税込・サ料10%別））の予約で、Black Diamond／Goldは往路または復路、Blackは往路の片道ハイヤー送迎"
+    hours: "18:00 - 20:30 (Lo) / 23:00 (Close)／利用希望日時の72時間前までにコンシェルジュ経由で要予約／キャンセル料　前日：コース金額の50%、 当日：コース料理の100%／アレルギー食材が多い方やベジタリアン、グルテンフリーの方、重篤な乳糖不耐症を抱えている方はご予約をお断りすることがございます。"
+  - active: true
+    name: "La BOMBANCE（ラ・ボンバンス）"
+    area: "西麻布"
+    prefecture: "東京都"
+    region: "関東"
+    benefit: "対象コース（ディナーコース：シェフのおすすめコース 24,200円（税・サ料込）もしくはLaBOMBANCE プレミアムコース 32,000円（税・サ料込））の予約で、Black Diamond／Goldは往路または復路、Blackは往路の片道ハイヤー送迎"
+    hours: "適用時間はコンシェルジュへ確認／利用希望日時の72時間前までにコンシェルジュ経由で要予約／キャンセル料に関してはご予約人数分のお料理代を右記の通りご負担いただきます。（3日前50% / 前日100%）"
+  - active: true
+    name: "日本料理 晴山"
+    area: "三田"
+    prefecture: "東京都"
+    region: "関東"
+    benefit: "対象コース（ディナーコース：ディナーコース38,400円 （税・サ料込）〜）の予約で、Black Diamond／Goldは往路または復路、Blackは往路の片道ハイヤー送迎"
+    hours: "ディナー 17:30～と20:30～の二部制／月曜と日曜は定休日／利用希望日時の72時間前までにコンシェルジュ経由で要予約／2日前からのキャンセルは、ご予約人数分のお料理代を全額頂戴いたします。"
+  - active: true
+    name: "紀風"
+    official_url: https://www.member.myluxurycard.co.jp/diningdetail/%E7%B4%80%E9%A2%A8
+    area: "恵比寿"
+    prefecture: "東京都"
+    region: "関東"
+    benefit: "対象コース（ディナーコース：おまかせコース 27,500円（税込・サ料10％別）または 36,300円（税込・サ料10％別））の予約で、Black Diamond／Goldは往路または復路、Blackは往路の片道ハイヤー送迎"
+    hours: "18:00～20:00の間のご予約／利用希望日時の72時間前までにコンシェルジュ経由で要予約／※前日キャンセル お料理代金の50% 当日キャンセル お料理代の100%"
+  - active: true
+    name: "銀座 小十"
+    area: "銀座"
+    prefecture: "東京都"
+    region: "関東"
+    benefit: "対象コース（夜コース：38,500円（税・サ別））の予約で、Black Diamond／Goldは往路または復路、Blackは往路の片道ハイヤー送迎"
+    hours: "18:00～LO20:30／利用希望日時の72時間前までにコンシェルジュ経由で要予約／※全席禁煙／※中学生以上利用可／※個室料（2名で利用時）15000円"
+  - active: true
+    name: "Nabeno-Ism（ナベノ－イズム）"
+    area: "浅草"
+    prefecture: "東京都"
+    region: "関東"
+    benefit: "対象コース（ディナーコース：「Nabeno-Ism」30,000円（税込・サ料10%別））の予約で、Black Diamond／Goldは往路または復路、Blackは往路の片道ハイヤー送迎"
+    hours: "18:00～LO21:00（23:00クローズ）、日曜ディナー18:00〜LO19:30(22:00クローズ)／利用希望日時の72時間前までにコンシェルジュ経由で要予約／※キャンセルに関しては、ご予約人数様分のお料理代金をご負担いただきます（3日前～2日前 50％　前日・当日100％）"
+  - active: true
+    name: "明寂 （Myoujyaku）"
+    area: "西麻布"
+    prefecture: "東京都"
+    region: "関東"
+    benefit: "対象コース（おまかせコース：44,000円（税込・サ料10％別）／甘味（デザート）2品を含む約15品前後／※女性やご年配の方でも無理なくお召し上がりいただける量ではありますが、ご希望に応じて量の調整にも対応しております。／多めに召し上がりたい場合は、コースの終盤に炊きたてご飯をおかわりしていただくことでボリュームを増やすことが可能です。／詳しくは、コンシェルジュまでご相談ください。）の予約で、Black Diamond／Goldは往路または復路、Blackは往路の片道ハイヤー送迎"
+    hours: "カウンター席（2部制）／第1部17:00スタート（およその終了時間19:30）／第2部20:00スタート（およその終了時間22:30）／個室（室料なし）／17:00～19:30の間でお好きな時間／利用希望日時の72時間前までにコンシェルジュ経由で要予約／キャンセルポリシー／ご予約日の1週間前から当日・・・お1人様あたり44,000円（料理代の100%・税込、サ無し）／※お客様都合によるキャンセルに関しましては、例外なくキャンセル料が発生しますので予めご了承ください。"
+  - active: true
+    name: "神楽坂 光石"
+    official_url: https://www.member.myluxurycard.co.jp/diningdetail/%E7%A5%9E%E6%A5%BD%E5%9D%82-%E5%85%89%E7%9F%B3
+    area: "神楽坂"
+    prefecture: "東京都"
+    region: "関東"
+    benefit: "対象コース（ディナーコース：おまかせコース 27,500円（税・サ料込）〜）の予約で、Black Diamond／Goldは往路または復路、Blackは往路の片道ハイヤー送迎"
+    hours: "夜／利用希望日時の72時間前までにコンシェルジュ経由で要予約／全席禁煙／料理長お任せのコースのみ。／お子様可（大人のメニューをお召し上がりいただける方が対象です。）／※当日キャンセルおよび、ご予約確認後にご連絡がなくお人数様が減った場合、お一人につき、キャンセル料20,000円頂戴いたします。"
+  - active: true
+    name: "鮨 塩釜港 銀座 極 -SUSHI SHIOGAMAKOU GINZA KIWAMI-"
+    official_url: https://www.member.myluxurycard.co.jp/diningdetail/%E9%AE%A8-%E5%A1%A9%E9%87%9C%E6%B8%AF-%E9%8A%80%E5%BA%A7-%E6%A5%B5
+    area: "銀座"
+    prefecture: "東京都"
+    region: "関東"
+    benefit: "対象コース（マグロ極コース：38,500円（税込・サ料10%別））の予約で、Black Diamond／Goldは往路または復路、Blackは往路の片道ハイヤー送迎"
+    hours: "月曜～土曜、祝日（日曜のみ店休）／1部　18:00～19:30（1時間30分）／2部　20:00～21:30（1時間30分）／利用希望日時の72時間前までにコンシェルジュ経由で要予約"
+  - active: true
+    name: "CEDROS"
+    area: "代官山"
+    prefecture: "東京都"
+    region: "関東"
+    benefit: "対象コース（ラグジュアリーカード会員様限定スペシャルコース(6品のコース)／コースに含まれるお飲み物：シャンパーニュ1グラス：17,600円（税込・サ料10%別））の予約で、Black Diamond／Goldは往路または復路、Blackは往路の片道ハイヤー送迎"
+    hours: "火～土　18:00〜23:00 (LO 22:00)、最終入店21:00／※日・月定休日／利用希望日時の72時間前までにコンシェルジュ経由で要予約／取消料は48時間前以降100%"
+    notice: "店舗閉店に伴い、本優待は2026年7月31日をもって終了"
+  - active: true
+    name: "乃木坂しん"
+    area: "乃木坂"
+    prefecture: "東京都"
+    region: "関東"
+    benefit: "対象コース（ディナーコース：25,000円（税・サ料10%別）〜／※季節や仕入れ状況により追加料金（5,000円～10,000円）を頂戴する場合がございます。）の予約で、Black Diamond／Goldは往路または復路、Blackは往路の片道ハイヤー送迎"
+    hours: "18:00～LO21:30／利用希望日時の72時間前までにコンシェルジュ経由で要予約／※キャンセルに関しまして、前日50%、当日100%のご予約人数様分のお料理代金をご負担いただきます。"
+  - active: true
+    name: "青華こばやし"
+    area: "曙橋駅"
+    prefecture: "東京都"
+    region: "関東"
+    benefit: "対象コース（コース：23,000円、32,000円（税・サ別））の予約で、Black Diamond／Goldは往路または復路、Blackは往路の片道ハイヤー送迎"
+    hours: "18:00～21:30までの間　※時間は応相談／利用希望日時の72時間前までにコンシェルジュ経由で要予約／※キャンセル料に関してはご予約人数様分のお料理代を右記の通りご負担いただきます（2週間～当日100％）"
+  - active: true
+    name: "なだ万本店 山茶花荘"
+    official_url: https://www.member.myluxurycard.co.jp/diningdetail/%E3%81%AA%E3%81%A0%E4%B8%87%E6%9C%AC%E5%BA%97-%E5%B1%B1%E8%8C%B6%E8%8A%B1%E8%8D%98
+    area: "紀尾井町"
+    prefecture: "東京都"
+    region: "関東"
+    benefit: "対象コース（ディナーコース：葵（あおい）懐石 52,800円（室料・税・サ料込））の予約で、Black Diamond／Goldは往路または復路、Blackは往路の片道ハイヤー送迎"
+    hours: "ディナー：17:00～21:00（ＬＯ19：00）／利用希望日時の72時間前までにコンシェルジュ経由で要予約／全席禁煙／お子様の年齢制限：有（昼0歳から利用可　平日夜のみ15歳～）／お子様メニュー：有"
+  - active: true
+    name: "銀座 安達直人"
+    area: "銀座"
+    prefecture: "東京都"
+    region: "関東"
+    benefit: "対象コース（ディナーコース：安達特選コース 20,570円（税・サ料込））の予約で、Black Diamond／Goldは往路または復路、Blackは往路の片道ハイヤー送迎"
+    hours: "18:00～LO23:00（土曜18:00～LO22:00）／利用希望日時の72時間前までにコンシェルジュ経由で要予約／※キャンセルに関しては右記の内容にて、ご予約人数様分のお料理代金をご負担いただきます（前日・当日100%）"
+  - active: true
+    name: "茶禅華"
+    area: "広尾"
+    prefecture: "東京都"
+    region: "関東"
+    benefit: "対象コース（ディナーコース：季節の食材のおまかせコース46,200円（税込・サ料（メインダイニング10％・個室15％）別）～）の予約で、Black Diamond／Goldは往路または復路、Blackは往路の片道ハイヤー送迎"
+    hours: "17:00～21:00／利用希望日時の72時間前までにコンシェルジュ経由で要予約／※キャンセルに関しては右記の内容にて、キャンセル料をご予約人数様分のお料理代金をご負担いただきます（1週間前まで50％、3日前75％、前日・当日100%）"
+  - active: true
+    name: "銀座 五明"
+    official_url: https://www.member.myluxurycard.co.jp/diningdetail/%E9%8A%80%E5%BA%A7-%E4%BA%94%E6%98%8E
+    area: "銀座"
+    prefecture: "東京都"
+    region: "関東"
+    benefit: "対象コース（ディナーコース：スペシャルコース 38,500円（税込み・サ料別）または シェフおまかせコース 55,000円（税込み・サ料別））の予約で、Black Diamond／Goldは往路または復路、Blackは往路の片道ハイヤー送迎"
+    hours: "17:00～LO21:30※閉店23:00／利用希望日時の72時間前までにコンシェルジュ経由で要予約"
+  - active: true
+    name: "日本料理 青柳"
+    official_url: https://www.member.myluxurycard.co.jp/diningdetail/%E6%97%A5%E6%9C%AC%E6%96%99%E7%90%86-%E9%9D%92%E6%9F%B3
+    area: "麻布台"
+    prefecture: "東京都"
+    region: "関東"
+    benefit: "対象コース（夜 懐石：LCコンシェルジュへお問い合わせください。）の予約で、Black Diamond／Goldは往路または復路、Blackは往路の片道ハイヤー送迎"
+    hours: "18:00〜22:00／利用希望日時の72時間前までにコンシェルジュ経由で要予約"
+  - active: true
+    name: "寛幸"
+    area: "東銀座"
+    prefecture: "東京都"
+    region: "関東"
+    benefit: "対象コース（ディナーコース：おまかせ特別コース 25,000円（税込・サ料10%別））の予約で、Black Diamond／Goldは往路または復路、Blackは往路の片道ハイヤー送迎"
+    hours: "適用時間はコンシェルジュへ確認／利用希望日時の72時間前までにコンシェルジュ経由で要予約／※キャンセルに関しては右記の内容にて、キャンセル料をご予約人数様分のお料理代金をご負担いただきます（前日50%、当日100%）"
+  - active: true
+    name: "Plaiga TOKYO （プレーガトウキョウ）"
+    official_url: https://www.member.myluxurycard.co.jp/diningdetail/plaiga-tokyo-%EF%BC%88%E3%83%97%E3%83%AC%E3%83%BC%E3%82%AC%E3%83%88%E3%82%A6%E3%82%AD%E3%83%A7%E3%82%A6%EF%BC%89
+    area: "大手町"
+    prefecture: "東京都"
+    region: "関東"
+    benefit: "対象コース（ディナーコース：ムシュ・グルマンコース 23,595円 (税・サ込）またはムシュ・スペシャル 30,250円 (税・サ込)／※ムシュ・スペシャルは3日前までにご予約ください。）の予約で、Black Diamond／Goldは往路または復路、Blackは往路の片道ハイヤー送迎"
+    hours: "17:30～LO20:00／利用希望日時の72時間前までにコンシェルジュ経由で要予約"
+  - active: true
+    name: "Florilege"
+    area: "虎ノ門"
+    prefecture: "東京都"
+    region: "関東"
+    benefit: "対象コース（ディナーコース：22,000円（税込・サ料10%別））の予約で、Black Diamond／Goldは往路または復路、Blackは往路の片道ハイヤー送迎"
+    hours: "ディナー 18:00-22:00（LO18:30）／利用希望日時の72時間前までにコンシェルジュ経由で要予約／※1グループ最大4名様までのご予約をお願いしております。／※中学生以上のご利用可"
+  - active: true
+    name: "abysse（アビス）"
+    official_url: https://www.member.myluxurycard.co.jp/diningdetail/abysse
+    area: "代官山"
+    prefecture: "東京都"
+    region: "関東"
+    benefit: "対象コース（ディナーコース：28,600円（税込・サ料10％別））の予約で、Black Diamond／Goldは往路または復路、Blackは往路の片道ハイヤー送迎"
+    hours: "18:00～LO20:30／利用希望日時の72時間前までにコンシェルジュ経由で要予約／※キャンセル料に関してはご予約人数様分のお料理代を右記の通りご負担いただきます（前日・当日100%）"
+  - active: true
+    name: "レフェルヴェソンス"
+    area: "西麻布"
+    prefecture: "東京都"
+    region: "関東"
+    benefit: "対象コース（おまかせコース：56,925円（税・サ料込））の予約で、Black Diamond／Goldは往路または復路、Blackは往路の片道ハイヤー送迎"
+    hours: "ランチ 11:30-15:30 (LO 12:30)　木・金・土曜日／ディナー 18:00-23:30 (LO 20:00)　火～土曜日／定休日 毎週日曜日・月曜日／利用希望日時の72時間前までにコンシェルジュ経由で要予約／※キャンセルに関してはご予約人数様分のお料理代金をご負担いただきます（1週間前から50% / 当日100%）"
+  - active: true
+    name: "Sudachi（スダチ）"
+    area: "南青山"
+    prefecture: "東京都"
+    region: "関東"
+    benefit: "対象コース（ディナーコース：月替わりのコース料理 22,000円(税込・サ込)、シェフコース 27,500円(税込・サ込)）の予約で、Black Diamond／Goldは往路または復路、Blackは往路の片道ハイヤー送迎"
+    hours: "18:00～LO21:00／利用希望日時の72時間前までにコンシェルジュ経由で要予約／キャンセル料に関してはご予約人数分のお料理代を右記の通りご負担いただきます。（3日前～前日50％、当日100％）"
+  - active: true
+    name: "食文化サロン 白金劉安（ショクブンカサロン シロカネリュウアン）"
+    area: "白金台"
+    prefecture: "東京都"
+    region: "関東"
+    benefit: "対象コース（ディナーコース：フカヒレ三昧コラーゲン 37,268円（税・サ料込））の予約で、Black Diamond／Goldは往路または復路、Blackは往路の片道ハイヤー送迎"
+    hours: "18:00～23:00（ラストオーダー20:30）／利用希望日時の72時間前までにコンシェルジュ経由で要予約／キャンセル料に関してはご予約人数様分のお料理代を右記の通りご負担いただきます（前日・当日100％）"
+  - active: true
+    name: "ベンジャミンステーキハウス東京ガーデンテラス紀尾井町店 (BENJAMIN STEAK HOUSE KIOICHO)"
+    official_url: https://www.member.myluxurycard.co.jp/diningdetail/%E3%83%99%E3%83%B3%E3%82%B8%E3%83%A3%E3%83%9F%E3%83%B3%E3%82%B9%E3%83%86%E3%83%BC%E3%82%AD%E3%83%8F%E3%82%A6%E3%82%B9%E6%9D%B1%E4%BA%AC%E3%82%AC%E3%83%BC%E3%83%87%E3%83%B3%E3%83%86%E3%83%A9%E3%82%B9%E7%B4%80%E5%B0%BE%E4%BA%95%E7%94%BA%E5%BA%97-(benjamin-steak-house-kioicho)
+    area: "赤坂・永田町"
+    prefecture: "東京都"
+    region: "関東"
+    benefit: "対象コース（LC会員様限定コース：①USDA PRIME熟成フィレミニョンステーキ150gを含む5ディッシュコースに、モエ・シャンドンのボトルが付いた特別プランを、LC会員様限定でお一人様24,000円（税・サ料込）にてご提供いたします。／②USDA PRIME熟成フィレミニョンステーキ150gを含む5ディッシュコースに、テラス限定モエ・シャンドン フリーフロー付きプランを、LC会員様限定でお一人様28,000円（税・サ料込）にてご提供いたします。／※上記メニューメインのUSDAフィレミニヨンステーキは、追加料金5,000円（通常9,680円）にてUSDA PRIMEポーターハウスステーキへアップグレードいただけます。／※ボトル付きプランは、3名様まで1本、5名様まで2本、6名様以上は3本をご提供いたします。／※ボトル付きプランのボトルは飲み切りでのご提供となります。／※ボトル付きプランのラストオーダー（90分）時にモエ・シャンドンをご注文いただいた場合は、グラスでのご提供となります。／※テラス限定プランのご予約で雨天の場合は、店舗から直接確認のご連絡をいれさせていただきます。／※テラス席でのご案内については、屋外のため天候や気温によってご利用いただけない場合がございますので、あらかじめご了承ください。）の予約で、Black Diamond／Goldは往路または復路、Blackは往路の片道ハイヤー送迎"
+    hours: "ディナー 17:00～23:00（LOフード22:00 /ドリンク22:30）／※日曜日 ディナー 17:00～22:00（LOフード 21:00 /ドリンク21:30）／利用希望日時の72時間前までにコンシェルジュ経由で要予約／カジュアルな服装でご利用いただけますが、肌の露出が少ない服装や履物の着用をお願いしております。"
+  - active: true
+    name: "明庵"
+    official_url: https://www.member.myluxurycard.co.jp/diningdetail/%E6%98%8E%E5%BA%B5
+    area: "名古屋・徳川町"
+    prefecture: "愛知県"
+    region: "東海"
+    benefit: "対象コース（ディナーコース：季節のおまかせのコース 35,000円（税別）〜）の予約で、Black Diamond／Goldは往路または復路、Blackは往路の片道ハイヤー送迎"
+    hours: "お食事開始時間18:00〜、19:00〜のご予約／利用希望日時の72時間前までにコンシェルジュ経由で要予約"
+  - active: true
+    name: "オーベルジュ・ド・リル　ナゴヤ"
+    official_url: https://www.member.myluxurycard.co.jp/diningdetail/%E3%82%AA%E3%83%BC%E3%83%99%E3%83%AB%E3%82%B8%E3%83%A5%E3%83%BB%E3%83%89%E3%83%BB%E3%83%AA%E3%83%AB%E3%80%80%E3%83%8A%E3%82%B4%E3%83%A4
+    area: "名古屋・名駅"
+    prefecture: "愛知県"
+    region: "東海"
+    benefit: "対象コース（ディナーコース：Le Menu Haeberlin 27,346円（税・サ料込）または Le Menu HH 33,561円（税・サ料込））の予約で、Black Diamond／Goldは往路または復路、Blackは往路の片道ハイヤー送迎"
+    hours: "17:30〜23:00（LO20:00）／利用希望日時の72時間前までにコンシェルジュ経由で要予約"
+  - active: true
+    name: "尾乃道"
+    official_url: https://www.member.myluxurycard.co.jp/diningdetail/%E5%B0%BE%E4%B9%83%E9%81%93
+    area: "名古屋・栄"
+    prefecture: "愛知県"
+    region: "東海"
+    benefit: "対象コース（前菜、ヒレステーキ150g、タンシチューなど全6品（25,000円税込・サ無）コース、または前菜、ヒレステーキ200g、タンシチューなど全7品（30,000円税込・サ無）コース：料金はコンシェルジュへ確認）の予約で、Black Diamond／Goldは往路または復路、Blackは往路の片道ハイヤー送迎"
+    hours: "適用時間はコンシェルジュへ確認／利用希望日時の72時間前までにコンシェルジュ経由で要予約／メニューは仕入状況等により変更となる場合がございます。"
+  - active: true
+    name: "河文"
+    area: "名古屋・栄"
+    prefecture: "愛知県"
+    region: "東海"
+    benefit: "対象コース（ディナーコース：ディナーコース 22,000円（税込）または 33,000円（税込））の予約で、Black Diamond／Goldは往路または復路、Blackは往路の片道ハイヤー送迎"
+    hours: "ディナー17:30〜LO21:00／利用希望日時の72時間前までにコンシェルジュ経由で要予約／ご予約は2日前まで"
+  - active: true
+    name: "サロン イナシュヴェ"
+    official_url: https://www.member.myluxurycard.co.jp/diningdetail/%E3%82%B5%E3%83%AD%E3%83%B3-%E3%82%A4%E3%83%8A%E3%82%B7%E3%83%A5%E3%83%B4%E3%82%A7
+    area: "名古屋・高岳"
+    prefecture: "愛知県"
+    region: "東海"
+    benefit: "対象コース（ディナーコース：ディナーコース 35,000円（税別）〜）の予約で、Black Diamond／Goldは往路または復路、Blackは往路の片道ハイヤー送迎"
+    hours: "適用時間はコンシェルジュへ確認／利用希望日時の72時間前までにコンシェルジュ経由で要予約／※完全予約制・ディナーは１組限定／※お子様用メニューについては、相談可"
+  - active: true
+    name: "ラ・グランターブル ドゥ キタムラ"
+    official_url: https://www.member.myluxurycard.co.jp/diningdetail/%E3%83%A9%E3%83%BB%E3%82%B0%E3%83%A9%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%96%E3%83%AB-%E3%83%89%E3%82%A5-%E3%82%AD%E3%82%BF%E3%83%A0%E3%83%A9
+    area: "高岳"
+    prefecture: "愛知県"
+    region: "東海"
+    benefit: "対象コース（ディナーコース：27,830円（税・サ料込）または 33,880円（税・サ料込））の予約で、Black Diamond／Goldは往路または復路、Blackは往路の片道ハイヤー送迎"
+    hours: "17:30～22:00（LO20:00）／利用希望日時の72時間前までにコンシェルジュ経由で要予約"
+  - active: true
+    name: "祇園　松田屋"
+    area: "祇園・岡崎・北白川"
+    prefecture: "京都府"
+    region: "関西"
+    benefit: "対象コース（ディナーコース：おまかせ 33,000円（税・サ料込）～／※献立・仕入れ状況等によりお値段は変動します。／※お飲物・追加料理の料金とサービス料10％は別途頂戴いたします。）の予約で、Black Diamond／Goldは往路または復路、Blackは往路の片道ハイヤー送迎"
+    hours: "【月～土】18：00～22：30（LO21：30）／【日】18：00～22：00（LO21：00）／利用希望日時の72時間前までにコンシェルジュ経由で要予約／※キャンセル料に関してはご予約人数分のお料理代を右記の通りご負担いただきます。営業日／3日前100％"
+  - active: true
+    name: "懐石 近又"
+    official_url: https://www.member.myluxurycard.co.jp/diningdetail/%E6%87%90%E7%9F%B3-%E8%BF%91%E5%8F%88
+    area: "御幸町（京都）"
+    prefecture: "京都府"
+    region: "関西"
+    benefit: "対象コース（ディナーコース：夕懐石 33,000円（税込・サ料15%別）もしくは55,000円（税込・サ料15%別）／料理長の特別コース 32,000円（税込・サ料15%別）／特選黒毛和牛懐石 30,000円（税込・サ料15%別））の予約で、Black Diamond／Goldは往路または復路、Blackは往路の片道ハイヤー送迎"
+    hours: "17:30～LO19:00／利用希望日時の72時間前までにコンシェルジュ経由で要予約／※キャンセルに関しては右記の内容にて、キャンセル料をご予約人数様分のお料理代金をご負担いただきます（前日50%、当日100%）"
+  - active: true
+    name: "炭火割烹いふき"
+    area: "祇園・岡崎・北白川"
+    prefecture: "京都府"
+    region: "関西"
+    benefit: "対象コース（ディナーコース：おまかせ 30,250円（税・サ料込）、36,300円（税・サ料込）、または42,350円（税・サ料込）／※ お席料は別途）の予約で、Black Diamond／Goldは往路または復路、Blackは往路の片道ハイヤー送迎"
+    hours: "17：00～23：00（LO21：30）／利用希望日時の72時間前までにコンシェルジュ経由で要予約／※キャンセル料に関してはご予約人数分のお料理代を右記の通りご負担いただきます。1週間前から100%発生 ※発生時は銀行振り込み"
+  - active: true
+    name: "にくの匠 三芳"
+    area: "祇園（京都）"
+    prefecture: "京都府"
+    region: "関西"
+    benefit: "対象コース（ディナーコース：ディナーコース 55,000円（税・サ料込））の予約で、Black Diamond／Goldは往路または復路、Blackは往路の片道ハイヤー送迎"
+    hours: "夜は二部制 17:00または20:00／利用希望日時の72時間前までにコンシェルジュ経由で要予約／※キャンセルに関しては、ご予約人数様分のお料理代金をご負担いただきます。（現在の取消料規定：2日前50%、前日70%、当日100%）"
+  - active: true
+    name: "シェフズ・テーブル by Katsuhito Inoue"
+    official_url: https://www.member.myluxurycard.co.jp/diningdetail/%E3%82%B7%E3%82%A7%E3%83%95%E3%82%BA%E3%83%BB%E3%83%86%E3%83%BC%E3%83%96%E3%83%AB-by-katsuhito-inoue
+    area: "京都"
+    prefecture: "京都府"
+    region: "関西"
+    benefit: "対象コース（おまかせメニュー：LCコンシェルジュまでお問い合わせください。）の予約で、Black Diamond／Goldは往路または復路、Blackは往路の片道ハイヤー送迎"
+    hours: "18:00 一斉スタート／利用希望日時の72時間前までにコンシェルジュ経由で要予約"
+  - active: true
+    name: "魚三楼"
+    official_url: https://www.member.myluxurycard.co.jp/diningdetail/%E9%AD%9A%E4%B8%89%E6%A5%BC
+    area: "伏見（京都）"
+    prefecture: "京都府"
+    region: "関西"
+    benefit: "対象コース（ディナーコース：月コース 37,950円（税・サ料込））の予約で、Black Diamond／Goldは往路または復路、Blackは往路の片道ハイヤー送迎"
+    hours: "17:00～最終入店19:30／利用希望日時の72時間前までにコンシェルジュ経由で要予約／※キャンセルに関しては右記の内容にて、ご予約人数様分のお料理代金をご負担いただきます（当日100%）"
+  - active: true
+    name: "ristorante NAKAMOTO"
+    area: "宇治・南山城"
+    prefecture: "京都府"
+    region: "関西"
+    benefit: "対象コース（ディナーコース：ディナーコース（ペアリング付き）22,000円（税・サ料込）／※ノンアルコールでのペアリングも可）の予約で、Black Diamond／Goldは往路または復路、Blackは往路の片道ハイヤー送迎"
+    hours: "18:00～23:00（LO20;00）／利用希望日時の72時間前までにコンシェルジュ経由で要予約／※キャンセル料に関してはご予約人数分のお料理代を右記の通りご負担いただきます。前日のキャンセル・人数減少：コース料金の40％　　当日のキャンセル・人数減少：コース料金の100％（前日が定休日の場合は、前日の営業日まで）"
+  - active: true
+    name: "La Locanda（ラ・ロカンダ）"
+    official_url: https://www.member.myluxurycard.co.jp/diningdetail/la-locanda%EF%BC%88%E3%83%A9%E3%83%BB%E3%83%AD%E3%82%AB%E3%83%B3%E3%83%80%EF%BC%89
+    area: "京都"
+    prefecture: "京都府"
+    region: "関西"
+    benefit: "対象コース（メニュー ディアマンテ：LCコンシェルジュまでお問い合わせください。）の予約で、Black Diamond／Goldは往路または復路、Blackは往路の片道ハイヤー送迎"
+    hours: "ディナー 火曜〜土曜 18:00 - 21:30（LO20:30）／利用希望日時の72時間前までにコンシェルジュ経由で要予約"
+  - active: true
+    name: "一子相伝なかむら"
+    area: "烏丸御池（京都）"
+    prefecture: "京都府"
+    region: "関西"
+    benefit: "対象コース（ディナーコース：33,000円（税込・サ料15%別）または 44,000円（税込・サ料15%別））の予約で、Black Diamond／Goldは往路または復路、Blackは往路の片道ハイヤー送迎"
+    hours: "17:00～21:00（L.E.19:30）／利用希望日時の72時間前までにコンシェルジュ経由で要予約／※前日20時以降のキャンセルは100％／※発生時は銀行振り込み"
+  - active: true
+    name: "京料理・てんぷら　天喜"
+    official_url: https://www.member.myluxurycard.co.jp/diningdetail/%E4%BA%AC%E6%96%99%E7%90%86%E3%83%BB%E3%81%A6%E3%82%93%E3%81%B7%E3%82%89%E3%80%80%E5%A4%A9%E5%96%9C
+    area: "京都"
+    prefecture: "京都府"
+    region: "関西"
+    benefit: "対象コース（LC特別ディナーコース：お一人様20,000円(税・サ込)）の予約で、Black Diamond／Goldは往路または復路、Blackは往路の片道ハイヤー送迎"
+    hours: "18:00〜22:00 (LO 20:00)／利用希望日時の72時間前までにコンシェルジュ経由で要予約／※ご予約日前日のキャンセルは50%、当日または無断キャンセルはコース料金の100%をご負担いただきます。"
+  - active: true
+    name: "レストランひらまつ 高台寺"
+    official_url: https://www.member.myluxurycard.co.jp/diningdetail/%E3%83%AC%E3%82%B9%E3%83%88%E3%83%A9%E3%83%B3%E3%81%B2%E3%82%89%E3%81%BE%E3%81%A4-%E9%AB%98%E5%8F%B0%E5%AF%BA
+    area: "祇園・岡崎・北白川"
+    prefecture: "京都府"
+    region: "関西"
+    benefit: "対象コース（ディナーコース：Saison 24,200円（税・サ料込）または Koudaiji 36,300円（税・サ料込））の予約で、Black Diamond／Goldは往路または復路、Blackは往路の片道ハイヤー送迎"
+    hours: "17：30～LO20：30／利用希望日時の72時間前までにコンシェルジュ経由で要予約／※キャンセル料に関してはご予約人数分のお料理代を右記の通りご負担いただきます。29日前以降30％・15日前以降50％・当日100％／アペリティフお1人様1杯(1予約につき最大6名様まで)／※他の特典との併用不可。メインディッシュを必ずご注文ください。前日までのご予約が必要です。"
+  - active: true
+    name: "高台寺 十牛庵"
+    official_url: https://www.member.myluxurycard.co.jp/diningdetail/%E9%AB%98%E5%8F%B0%E5%AF%BA-%E5%8D%81%E7%89%9B%E5%BA%B5
+    area: "祇園・岡崎・北白川"
+    prefecture: "京都府"
+    region: "関西"
+    benefit: "対象コース（ディナーコース：夜のコース 37,950円（税・サ料込）、63,250円（税・サ込）、または 88,550円（税・サ料込））の予約で、Black Diamond／Goldは往路または復路、Blackは往路の片道ハイヤー送迎"
+    hours: "17：30～LO19：30／利用希望日時の72時間前までにコンシェルジュ経由で要予約／※他の特典との併用不可。メインディッシュを必ずご注文ください。前日までのご予約が必要です。"
+  - active: true
+    name: "じき宮ざわ"
+    official_url: https://www.member.myluxurycard.co.jp/diningdetail/%E3%81%98%E3%81%8D%E5%AE%AE%E3%81%96%E3%82%8F
+    area: "四条烏丸"
+    prefecture: "京都府"
+    region: "関西"
+    benefit: "対象コース（ディナーコース：夜の御食事 19,800円（税込・サ料10%別））の予約で、Black Diamond／Goldは往路または復路、Blackは往路の片道ハイヤー送迎"
+    hours: "18:00～20:00(最終入店)／利用希望日時の72時間前までにコンシェルジュ経由で要予約／当日キャンセル（連絡なし）100% 当日キャンセル（連絡あり）100% 前日キャンセル 50%"
+  - active: true
+    name: "会席 水暉"
+    official_url: https://www.member.myluxurycard.co.jp/diningdetail/%E4%BC%9A%E5%B8%AD-%E6%B0%B4%E6%9A%89
+    area: "京都"
+    prefecture: "京都府"
+    region: "関西"
+    benefit: "対象コース（宝珠：LCコンシェルジュまでお問い合わせください。）の予約で、Black Diamond／Goldは往路または復路、Blackは往路の片道ハイヤー送迎"
+    hours: "ディナー 17:30 – 21:00（LO20:00）／利用希望日時の72時間前までにコンシェルジュ経由で要予約"
+  - active: true
+    name: "焼肉矢澤 京都"
+    area: "御所・二条城・烏丸"
+    prefecture: "京都府"
+    region: "関西"
+    benefit: "対象コース（アラカルト：予算として9,000円～14,000円（税込・サービス料なし））の予約で、Black Diamond／Goldは往路または復路、Blackは往路の片道ハイヤー送迎"
+    hours: "17:00～24:00（LO23:00）／利用希望日時の72時間前までにコンシェルジュ経由で要予約／※キャンセル料に関してはご予約人数分のお料理代を右記の通りご負担いただきます。当日（連絡無しの場合）100％"
+  - active: true
+    name: "ごだん宮ざわ"
+    official_url: https://www.member.myluxurycard.co.jp/diningdetail/%E3%81%94%E3%81%A0%E3%82%93%E5%AE%AE%E3%81%96%E3%82%8F
+    area: "五条"
+    prefecture: "京都府"
+    region: "関西"
+    benefit: "対象コース（ディナーコース：夜の御食事 22,000円（税込・サ料10%別））の予約で、Black Diamond／Goldは往路または復路、Blackは往路の片道ハイヤー送迎"
+    hours: "2部制　①18:00-20:15　②20:30- 23:00／利用希望日時の72時間前までにコンシェルジュ経由で要予約"
+  - active: true
+    name: "御二九と八さい はちべー"
+    area: "柳小路（京都）"
+    prefecture: "京都府"
+    region: "関西"
+    benefit: "対象コース（夜のおまかせ：8,200円（税込・サなし））の予約で、Black Diamond／Goldは往路または復路、Blackは往路の片道ハイヤー送迎"
+    hours: "17:00～21:30／利用希望日時の72時間前までにコンシェルジュ経由で要予約／※キャンセルに関してはご予約人数様分のお料理代金をご負担いただきます（4～5日前50％、3日前～前日80％、当日100％）"
+  - active: true
+    name: "Reine des prés"
+    area: "御所・二条城・烏丸"
+    prefecture: "京都府"
+    region: "関西"
+    benefit: "対象コース（おまかせコース：18,000円/ 24,000円（税・サ込））の予約で、Black Diamond／Goldは往路または復路、Blackは往路の片道ハイヤー送迎"
+    hours: "ディナー: 18:00 ～ 23:00（LO19:00）／利用希望日時の72時間前までにコンシェルジュ経由で要予約／1日3組／※キャンセル料に関してはご予約人数分のお料理代を右記の通りご負担いただきます。前日・当日はご予約合計金額の100％を頂戴しております。"
+  - active: true
+    name: "cenci"
+    official_url: https://www.member.myluxurycard.co.jp/diningdetail/cenci
+    area: "平安神宮"
+    prefecture: "京都府"
+    region: "関西"
+    benefit: "対象コース（ディナーコース：ディナーコース 21,780円（税・サ料込））の予約で、Black Diamond／Goldは往路または復路、Blackは往路の片道ハイヤー送迎"
+    hours: "ディナー 18:00〜LO19:00／21:30（close）／利用希望日時の72時間前までにコンシェルジュ経由で要予約"
+  - active: true
+    name: "レストラン ラ シーム"
+    area: "大阪"
+    prefecture: "大阪府"
+    region: "関西"
+    benefit: "対象コース（ディナーコース：35,200円(税・サ込)）の予約で、Black Diamond／Goldは往路または復路、Blackは往路の片道ハイヤー送迎"
+    hours: "18:30～LO20:00までのご都合の良いお時間)／利用希望日時の72時間前までにコンシェルジュ経由で要予約／キャンセル料に関してはご予約人数様分のお料理代を右記の通りご負担いただきます（前日・当日100％）"
+  - active: true
+    name: "鮨ほしやま"
+    area: "曾根崎新地（大阪）"
+    prefecture: "大阪府"
+    region: "関西"
+    benefit: "対象コース（ディナーコース：握りのコース30,800円（税・サ料込））の予約で、Black Diamond／Goldは往路または復路、Blackは往路の片道ハイヤー送迎"
+    hours: "17:30～23:30（LO22:00）／利用希望日時の72時間前までにコンシェルジュ経由で要予約／※キャンセルに関しては右記の内容にて、キャンセル料をご予約人数様分のお料理代金をご負担いただきます（前日50%、当日100%）"
+  - active: true
+    name: "味吉兆 ぶんぶ庵"
+    official_url: https://www.member.myluxurycard.co.jp/diningdetail/%E5%91%B3%E5%90%89%E5%85%86-%E3%81%B6%E3%82%93%E3%81%B6%E5%BA%B5
+    area: "本町"
+    prefecture: "大阪府"
+    region: "関西"
+    benefit: "対象コース（ディナーコース：27,500円、33,000円、38,500円（全て税込・サ料10%別））の予約で、Black Diamond／Goldは往路または復路、Blackは往路の片道ハイヤー送迎"
+    hours: "17:30～22:00（LO20:00）／利用希望日時の72時間前までにコンシェルジュ経由で要予約"
+  - active: true
+    name: "蔵 - 鉄板焼&寿司"
+    official_url: https://www.member.myluxurycard.co.jp/diningdetail/%E8%94%B5---%E9%89%84%E6%9D%BF%E7%84%BC%26%E5%AF%BF%E5%8F%B8
+    area: "中之島"
+    prefecture: "大阪府"
+    region: "関西"
+    benefit: "対象コース（コース：鉄板焼きコースおよび寿司コースの料金につきましては、LCコンシェルジュまでお問い合わせください。）の予約で、Black Diamond／Goldは往路または復路、Blackは往路の片道ハイヤー送迎"
+    hours: "ディナー：【日～金】17:30～LO20:30／利用希望日時の72時間前までにコンシェルジュ経由で要予約／1組（4名様まで）／キャンセルポリシー：3日前から100%キャンセル料を頂戴いたします。／ご予約の内容に変更がある場合、前日までに必ずご連絡ください。／鉄板カウンター:32席（個室1室、8名含む）/寿司カウンター：9席／※繁忙時（クリスマス、年末年始、GW、お盆など）、イベント等開催の場合はご利用いただけない場合がございます。予めご了承ください。"
+  - active: true
+    name: "すし処 広川"
+    area: "京橋（大阪）"
+    prefecture: "大阪府"
+    region: "関西"
+    benefit: "対象コース（ディナーコース：おまかせコース20,000円（税込・サ料なし））の予約で、Black Diamond／Goldは往路または復路、Blackは往路の片道ハイヤー送迎"
+    hours: "18:00 一斉スタート／利用希望日時の72時間前までにコンシェルジュ経由で要予約／キャンセル規定：通常は当日100％発生(但し、5名以上の場合5日前～100％)"
+  - active: true
+    name: "味吉兆 堀江"
+    official_url: https://www.member.myluxurycard.co.jp/diningdetail/%E5%91%B3%E5%90%89%E5%85%86-%E5%A0%80%E6%B1%9F
+    area: "堀江"
+    prefecture: "大阪府"
+    region: "関西"
+    benefit: "対象コース（ディナーコース：24,200円（税・サ込）、30,250円（税・サ込）、36,300円（税・サ込）または42,350円（税・サ込））の予約で、Black Diamond／Goldは往路または復路、Blackは往路の片道ハイヤー送迎"
+    hours: "17:00～22:00（LO20:00）／利用希望日時の72時間前までにコンシェルジュ経由で要予約"
+  - active: true
+    name: "鮨 魚神"
+    official_url: https://www.member.myluxurycard.co.jp/diningdetail/%E9%AE%A8-%E9%AD%9A%E7%A5%9E
+    area: "ハワイ"
+    prefecture: "ハワイ州"
+    region: "ハワイ"
+    benefit: "対象コース（シェフのおまかせコース：$150 (ハワイ州税・チップ別)）の予約で、レストランへの片道ハイヤー送迎またはHiBusトロリー1日乗車券"
+    hours: "一部 17:00〜19:00、二部 20:00〜22:00／利用希望日時の72時間前までにコンシェルジュ経由で要予約／※アルコール類はBYOB(Bring Your Own Beverage)スタイルでご自身でご持参ください。"

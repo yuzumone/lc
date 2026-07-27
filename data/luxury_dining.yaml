@@ -1,0 +1,342 @@
+title: ラグジュアリーダイニング
+category: dining
+last_checked: 2026-07-24
+source: https://www.member.myluxurycard.co.jp/serviceinfo/dining/luxurydining
+venues:
+  - active: true
+    name: "amphis"
+    official_url: https://www.member.myluxurycard.co.jp/diningdetail/amphis
+    area: "西麻布"
+    prefecture: "東京都"
+    region: "関東"
+    benefit: "2名様以上でおまかせコース（お一人様30,250円 / 税込・サ料10%別）をご予約の場合、1名様分を無料でご提供いたします。／さらに、「ウェルカムシャンパン」または「ワンドリンク」を特典としてご用意いたします。／※ご予約は、2名様・4名様・6名様のいずれかの偶数人数に限らせていただきます。／※コンシェルジュ経由以外でのご予約の場合、本優待は適用対象外となりますので、あらかじめご了承ください。／※本優待は、半年に1回ご利用いただけます。／（対象期間：1月～6月／7月～12月）"
+    hours: "火、水、木、金／各日 17:30／20:30 開始（いずれも一斉スタート）／コンシェルジュ経由で事前予約"
+  - active: true
+    name: "無垢"
+    official_url: https://www.member.myluxurycard.co.jp/diningdetail/%E7%84%A1%E5%9E%A2
+    area: "西麻布"
+    prefecture: "東京都"
+    region: "関東"
+    benefit: "2名様以上でおまかせコース（お一人様27,500円 / 税込・サ料10%別）をご予約の場合、1名様分を無料でご提供いたします。／さらに、「ウェルカムシャンパン」または「ワンドリンク」を特典としてご用意いたします。／※ご予約は、2名様・4名様・6名様のいずれかの偶数人数に限らせていただきます。／※コンシェルジュ経由以外でのご予約の場合、本優待は適用対象外となりますので、あらかじめご了承ください。／※本優待は、半年に1回ご利用いただけます。／（対象期間：1月～6月／7月～12月）"
+    hours: "火、水、木、金／各日 17:30／20:30 開始（いずれも一斉スタート）／コンシェルジュ経由で事前予約"
+  - active: true
+    name: "USHIYA KITCHEN"
+    official_url: https://www.member.myluxurycard.co.jp/diningdetail/ushiya-kitchen
+    area: "赤坂"
+    prefecture: "東京都"
+    region: "関東"
+    benefit: "2名様以上で「USHIYAコース」（お一人様16,500円／税込）をご予約の場合、2名様のご利用ごとに1名様分を無料でご提供いたします（最大3名様分まで）。／※1グループ、6名様までご予約いただけます。／※キャンセル料につきましては、ご予約当日のキャンセルの場合、ご連絡の有無にかかわらず、ご利用料金の100％を申し受けます。／※連絡なしにご予約時間より15分以上遅れた場合は自動的にキャンセルとさせていただく場合がございます。ご予約の変更・キャンセルの際は、店舗（050-5595-8738）までご連絡ください。"
+    hours: "17:00〜23:00／定休日：日曜日（※土曜日は不定休）／コンシェルジュ経由で事前予約"
+  - active: true
+    name: "鮓道　武蔵"
+    official_url: https://www.member.myluxurycard.co.jp/diningdetail/%E9%AE%93%E9%81%93%E3%80%80%E6%AD%A6%E8%94%B5
+    area: "品川"
+    prefecture: "東京都"
+    region: "関東"
+    benefit: "2名様以上で大将Omakaseスペシャルコース（32,280円／税込・サ料10%別）をご予約の場合、1名様分を無料でご提供いたします。／※1グループ、6名様までご予約いただけます。／※連絡なしにご予約時間より10分以上遅れた場合は自動的にキャンセルとさせていただく場合がございます。キャンセル変更は必ず店舗（050-5869-3499）までご連絡をお願いいたします。"
+    hours: "17:00 - 23:00（LO 22:30）／定休日：月曜・日曜／コンシェルジュ経由で事前予約"
+  - active: true
+    name: "銀座　鮨　奈可久"
+    official_url: https://www.member.myluxurycard.co.jp/diningdetail/%E9%8A%80%E5%BA%A7%E3%80%80%E9%AE%A8%E3%80%80%E5%A5%88%E5%8F%AF%E4%B9%85
+    area: "銀座"
+    prefecture: "東京都"
+    region: "関東"
+    benefit: "2名様以上で特別コース（お一人様29,700円／税・サ料込）をご予約の場合、2名様ごとに1名様分のコース料金を無料でご提供いたします（最大3名様分まで）。／※1グループにつき、最大6名様までご予約いただけます。／※ご予約時間を15分以上過ぎてもご連絡がない場合は、自動的にキャンセルとなる場合がございます。／※キャンセル・変更の際は、必ず店舗（TEL：03-5931-1155）までご連絡ください。"
+    hours: "月-土 17:00〜23:00／（日曜・祝日除外）／コンシェルジュ経由で事前予約"
+  - active: true
+    name: "焼肉ストーリー　水道橋店"
+    official_url: https://www.member.myluxurycard.co.jp/diningdetail/%E7%84%BC%E8%82%89%E3%82%B9%E3%83%88%E3%83%BC%E3%83%AA%E3%83%BC%E3%80%80%E6%B0%B4%E9%81%93%E6%A9%8B%E5%BA%97
+    area: "水道橋"
+    prefecture: "東京都"
+    region: "関東"
+    benefit: "2名様以上で、以下対象コースをご予約の場合、1名様分を無料でご提供いたします。／対象コース（税・サ料込）／① 松阪牛 至高コース（15,000円）／② 神タン食べ放題コース（18,000円）／※1グループ、6名様までご予約いただけます。／①松阪牛 至高コース（15,000円／税・サ料込）／②神タン食べ放題コース（18,000円／税・サ料込）／※ご連絡なくご予約時間より15分以上遅れた場合は、自動キャンセルとなる場合がございます。／※キャンセル・変更の際は、必ず店舗（03-5843-9929）まで直接ご連絡をお願いいたします。"
+    hours: "年末年始以外／コンシェルジュ経由で事前予約"
+  - active: true
+    name: "亀戸相撲部屋 SUMOTOKYO"
+    official_url: https://www.member.myluxurycard.co.jp/diningdetail/sumotokyo
+    area: "亀戸"
+    prefecture: "東京都"
+    region: "関東"
+    benefit: "2名様以上で「Authentic Sumo Experience in Tokyo」（16,000円／税込）をご予約の場合、1名様分を無料でご提供いたします。／※1グループ、6名様までご予約いただけます。／※連絡なしにご予約時間より15分以上遅れた場合は自動的にキャンセルとさせていただく場合がございます。キャンセル変更は必ず店舗まで（080-6873-9713）ご連絡をお願いいたします。"
+    hours: "毎日／コンシェルジュ経由で事前予約"
+  - active: true
+    name: "鮨十十十"
+    official_url: https://www.member.myluxurycard.co.jp/diningdetail/%E9%AE%A8%E5%8D%81%E5%8D%81%E5%8D%81
+    area: "恵比寿"
+    prefecture: "東京都"
+    region: "関東"
+    benefit: "2名様以上で大将Omakaseスペシャルコース（32,280円／税込・サ料10%別）をご予約の場合、1名様分を無料でご提供いたします。／※1グループ、6名様までご予約いただけます。／※ご予約時間より10分以上遅れる場合は、事前に店舗（050-5600-7879）までご連絡ください。ご連絡がない場合は、キャンセルとさせていただく場合がございます。"
+    hours: "毎日／コンシェルジュ経由で事前予約"
+  - active: true
+    name: "焼肉ここのみ"
+    official_url: https://www.member.myluxurycard.co.jp/diningdetail/%E7%84%BC%E8%82%89%E3%81%93%E3%81%93%E3%81%AE%E3%81%BF
+    area: "恵比寿"
+    prefecture: "東京都"
+    region: "関東"
+    benefit: "2名様以上で竹ノ谷蔓牛特別コース（29,800円／税込・サ料10%別）をご予約の場合、1名様分を無料でご提供いたします。／※1グループ、6名様までご予約いただけます。／食前スープ、本日の牛タン盛り、竹ノ谷蔓牛盛り合わせプレート（竹ノ谷蔓牛3種、キムチ、ユッケ、松阪豚の冷シャブ）、冷製サーモンのタルタル、竹ノ谷蔓牛 月見ブリスケット、和牛100％ミニバーガー、本日のサラダ、竹ノ谷蔓牛の三種プレート、ゆず冷麺またはガーリック炒飯（グループでいずれか同一メニューをご選択ください）、本日のデザート／※完全個室をご希望の場合は、別途個室料（3,300円／税込・サ料10％別）を申し受けます。／※ご予約時間より10分以上遅れる場合は、事前に店舗（050-5600-5950）までご連絡ください。ご連絡がない場合は、キャンセルとさせていただく場合がございます。"
+    hours: "毎日／コンシェルジュ経由で事前予約"
+  - active: true
+    name: "焼肉六六六"
+    official_url: https://www.member.myluxurycard.co.jp/diningdetail/%E7%84%BC%E8%82%89%E5%85%AD%E5%85%AD%E5%85%AD
+    area: "四谷"
+    prefecture: "東京都"
+    region: "関東"
+    benefit: "2名様以上で森羅万象コース（22,000円／税込・サ料10%別）をご予約の場合、1名様分を無料でご提供いたします。／※1グループ、6名様までご予約いただけます。／（2～6名個室：2,200円／2～8名防音個室：5,500円）／※ご予約時間より10分以上遅れる場合は、事前に店舗（050-5590-0242）までご連絡ください。ご連絡がない場合は、キャンセルとさせていただく場合がございます。"
+    hours: "毎日／コンシェルジュ経由で事前予約"
+  - active: true
+    name: "BENJAMIN STEAKHOUSE ROPPONGI"
+    official_url: https://www.member.myluxurycard.co.jp/diningdetail/benjamin-steakhouse-roppongi
+    area: "六本木"
+    prefecture: "東京都"
+    region: "関東"
+    benefit: "2名様以上でTボーンステーキ＆ロブスターコース（32,000円／税・サ料込）をご予約の場合、1名様分を無料でご提供いたします。／※1グループ、6名様までご予約いただけます。／※連絡なしにご予約時間より30分以上遅れた場合は自動的にキャンセルとさせていただく場合がございます。／※2日前（前々日）までのキャンセルは無料です。前日のキャンセルは50%、当日のキャンセルは100%のキャンセル料を頂戴いたします。／※ご予約のキャンセルは、直接店舗（03-5413-4266）までお電話にてご連絡ください。"
+    hours: "毎日 11:30-15:00 （LO Food 14:00、Drink 14:30）／コンシェルジュ経由で事前予約"
+  - active: true
+    name: "Lonich, Kuramae"
+    official_url: https://www.member.myluxurycard.co.jp/diningdetail/lonich%2C-kuramae
+    area: "蔵前"
+    prefecture: "東京都"
+    region: "関東"
+    benefit: "2名様以上で、以下の2つの対象コースをご予約の場合、1名様分を無料でご提供いたします。／対象コース内容（税・サ料込）／①CREATIVE COURSE 　お一人様4,500円／②COLLECTIVE COURSE　お一人様8,500円／※1グループ、4名様までご予約いただけます。／2名様以上のご利⽤で1名様無料／3名様以上のご利⽤で1名様無料／4名様以上のご利⽤で2名様無料／※ご予約後のキャンセルにつきましては、お一人様あたり4,500円のキャンセル料を申し受けます。また、当日キャンセルおよび無断キャンセルの場合は、ご予約コースの人数分のキャンセル料を申し受けます。あらかじめご了承ください。"
+    hours: "9:00〜19:00／コンシェルジュ経由で事前予約"
+  - active: true
+    name: "鮨処 あさの川"
+    official_url: https://www.member.myluxurycard.co.jp/diningdetail/%E9%AE%A8%E5%87%A6-%E3%81%82%E3%81%95%E3%81%AE%E5%B7%9D
+    area: "東京"
+    prefecture: "東京都"
+    region: "関東"
+    benefit: "以下4コースを、コンシェルジュ経由でご予約の場合、1名様分を無料でご提供いたします。／（いずれも税込・サービス料込）／①【立湧】お一人様 20,570円／②【七宝】お一人様 26,620円／③【宝珠】お一人様 26,620円／④【観世水】お一人様 32,670円／※1グループ、4名様までご予約いただけます。／2名様以上のご利⽤で1名様無料／3名様以上のご利⽤で1名様無料／4名様以上のご利⽤で2名様無料／※ご予約の当日キャンセルは、料金の全額をご請求させていただきますので、予めご了承ください。／※連絡なしにご予約時間より15分以上遅れた場合は自動的にキャンセルとさせていただく場合がございます。キャンセル変更は必ず店舗までご連絡をお願いいたします。"
+    hours: "営業時間内／コンシェルジュ経由で事前予約"
+  - active: true
+    name: "つゞみ"
+    official_url: https://www.member.myluxurycard.co.jp/diningdetail/%E3%81%A4%E3%82%9E%E3%81%BF
+    area: "南麻布"
+    prefecture: "東京都"
+    region: "関東"
+    benefit: "2名様以上で、以下の2つの対象コースをご予約の場合、1名様分を無料でご提供いたします。／対象コース内容（いずれも税込・サービス料別）／①【琴】お一人様 13,200円／②【つゞみおまかせ】お一人様 24,200円／※1グループ、6名様までご予約いただけます。／2名様以上のご利⽤で1名様無料／3名様以上のご利⽤で1名様無料／4名様以上のご利⽤で2名様無料／※ご予約のキャンセルは前日50％、当日100％をご請求させて頂きます。ご了承ください。／※連絡なしにご予約時間より15分以上遅れた場合は自動的にキャンセルとさせていただく場合がございます。キャンセル変更は必ず店舗までご連絡をお願いいたします。／個室料として別途3,300円（税込）を申し受けますので、予めご了承ください。"
+    hours: "17:00～23:00（L.O.22:00）／​定休日：不定休／コンシェルジュ経由で事前予約"
+  - active: true
+    name: "The INNOCENT CARVERY"
+    official_url: https://www.member.myluxurycard.co.jp/diningdetail/the-innocent-carvery
+    area: "西麻布"
+    prefecture: "東京都"
+    region: "関東"
+    benefit: "4名様でおまかせコース（お一人様26,000円 / 税込・サービス料10%）をご予約の場合、1名様分を無料でご提供いたします。／※別途10%のサービス料を頂戴しております。／※連絡なしにご予約時間より15分以上遅れた場合は⾃動的にキャンセルとさせていただく場合がございます。キャンセル変更は必ず店舗までご連絡をお願いいたします。"
+    hours: "17:00～20:30／コンシェルジュ経由で事前予約"
+  - active: true
+    name: "MEAT & GRILL MARCO EBISU"
+    official_url: https://www.member.myluxurycard.co.jp/diningdetail/meat-%26-grill-marco-ebisu
+    area: "恵比寿"
+    prefecture: "東京都"
+    region: "関東"
+    benefit: "2名様以上でコース①またはコース②をご予約の場合、1名様分を無料でご提供いたします。／※1グループ、6名様までご予約いただけます。／コース①：VIPコース／コース料金：お一人様15,000円 （税‧サ料込）／コース②：特選A5和牛 シャトーブリアンコース／コース料金：お一人様 19,800円（税・サ料込）／※コース①およびコース②いずれも、料金とは別に10％のサービス料を申し受けます。"
+    hours: "ランチタイム / 月・火・木・金・土・日・祝／ディナータイム / 毎日／コンシェルジュ経由で事前予約"
+  - active: true
+    name: "MEAT & GRILL MARCO AKASAKA"
+    official_url: https://www.member.myluxurycard.co.jp/diningdetail/meat-%26-grill-marco-akasaka
+    area: "赤坂"
+    prefecture: "東京都"
+    region: "関東"
+    benefit: "2名様以上でコース①またはコース②をご予約の場合、1名様分を無料でご提供いたします。／※1グループ、6名様までご予約いただけます。／コース①：VIPコース／コース料金：お一人様15,000円 （税‧サ料込）／コース②：特選A5和牛 シャトーブリアンコース／コース料金：お一人様19,800円（税・サ料込）／※コース①およびコース②いずれも、料金とは別に10％のサービス料を申し受けます。"
+    hours: "ランチタイム / 土日祝／ディナータイム / 毎日／コンシェルジュ経由で事前予約"
+  - active: true
+    name: "MEAT & GRILL MARCO HANARE"
+    official_url: https://www.member.myluxurycard.co.jp/diningdetail/meat-%26-grill-marco-hanare
+    area: "赤坂"
+    prefecture: "東京都"
+    region: "関東"
+    benefit: "2名様以上でコース①またはコース②をご予約の場合、1名様分を無料でご提供いたします。／※1グループ、6名様までご予約いただけます。／コース①：特選A5和牛シャトーブリアンコース／コース料金：お一人様18,000円（税込‧サ料別）／※別途、10％のサービス料を申し受けます。／コース②：［個室確約・乾杯シャンパン付］VIPコース／コース料金：お一人様25,000円（税込・サ料別）／※別途、10％のサービス料を申し受けます。"
+    hours: "ランチタイム / 月・火・木・金・土・日・祝／ディナータイム / 毎日／コンシェルジュ経由で事前予約"
+  - active: true
+    name: "カフェ＆バーWONDERFUL LIFE"
+    official_url: https://www.member.myluxurycard.co.jp/diningdetail/%E3%82%AB%E3%83%95%E3%82%A7%EF%BC%86%E3%83%90%E3%83%BCwonderful-life
+    area: "西麻布"
+    prefecture: "東京都"
+    region: "関東"
+    benefit: "2名様以上でお一人様7,000円（税込・サ料別）の特別コースをご予約の場合、1名様分を無料でご提供いたします。／※1グループ、6名様までご予約いただけます。／2名様以上のご利用で1名様無料／3名様以上のご利用で1名様無料／4名様以上のご利用で2名様無料／5名様以上のご利用で2名様無料／6名様以上のご利用で3名様無料"
+    hours: "全てのラグジュアリーカード会員様／18:00～22:00／コンシェルジュ経由で事前予約"
+  - active: true
+    name: "焼鶏　まつもと"
+    official_url: https://www.member.myluxurycard.co.jp/diningdetail/%E7%84%BC%E9%B6%8F%E3%80%80%E3%81%BE%E3%81%A4%E3%82%82%E3%81%A8
+    area: "麻布十番"
+    prefecture: "東京都"
+    region: "関東"
+    benefit: "2名様以上でお一人様12,000円 （税・サ料込）のコースをご予約の場合、1名様分を無料でご提供いたします。／※1グループ、6名様までご予約いただけます。"
+    hours: "［月～土曜］18:00〜、20:30〜　［日曜・祝日］　17:00〜、19:30〜の二部制／コンシェルジュ経由で事前予約"
+  - active: true
+    name: "RainDrop-ginza"
+    official_url: https://www.member.myluxurycard.co.jp/diningdetail/raindrop-ginza
+    area: "銀座"
+    prefecture: "東京都"
+    region: "関東"
+    benefit: "プラン①The Macallanスペシャルプラン／2名様以上でThe Macallanスペシャルプラン （お一人様あたり税込12,100円）をご予約の場合、1名様分を無料でご提供いたします。／2名様以上でグレンアラヒー8年 スペシャルプラン（お一人様あたり税込7,300円）をご予約の場合、1名様分を無料でご提供いたします。／※1グループ、6名様までご予約いただけます。"
+    hours: "月曜～土曜16:00-26:00／コンシェルジュ経由で事前予約"
+  - active: true
+    name: "銀座 鮨 佑"
+    official_url: https://www.member.myluxurycard.co.jp/diningdetail/%E9%8A%80%E5%BA%A7-%E9%AE%A8-%E4%BD%91
+    area: "銀座"
+    prefecture: "東京都"
+    region: "関東"
+    benefit: "Black Diamond 会員様限定／2名様以上でお一人様30,000円 （税・サ料込）のコースをご予約の場合、1名様分を無料でご提供いたします。／※1グループ、6名様までご予約いただけます。／※連絡が繋がらず、予約時間から30分経過(超過)した場合は、自動的にキャンセルとなりますのでご了承ください。"
+    hours: "日曜・祝日を除く毎日／ディナータイム 18:00～・20:30～の2部制／コンシェルジュ経由で事前予約"
+  - active: true
+    name: "intellctuary"
+    official_url: https://www.member.myluxurycard.co.jp/diningdetail/intellctuary
+    area: "大崎"
+    prefecture: "東京都"
+    region: "関東"
+    benefit: "2名様以上でコース①またはコース②をご予約の場合、1名様分を無料でご提供いたします。／※1グループ、6名様までご予約いただけます。／コース①：sanctuary course／コース料金：お一人様 10,000円（税‧サ料込）／コース②：intellctuary course／コース料金：お一人様 18,000円（税‧サ料込）／※連絡が繋がらず、予約時間から30分経過（超過）した場合は、自動的にキャンセルとなりますのでご了承ください。"
+    hours: "毎日（定休日の日曜日以外） / ディナータイム／コンシェルジュ経由で事前予約"
+  - active: true
+    name: "ル・プリスティン東京"
+    official_url: https://www.member.myluxurycard.co.jp/diningdetail/%E3%83%AB%E3%83%BB%E3%83%97%E3%83%AA%E3%82%B9%E3%83%86%E3%82%A3%E3%83%B3%E6%9D%B1%E4%BA%AC
+    area: "虎ノ門"
+    prefecture: "東京都"
+    region: "関東"
+    benefit: "・ランチ／4名様で「ル プリスティン レストランウィークデーランチ3コース」（お一人様8,222円 （税・サ込））をご予約のLC会員様に限り、1名様分を無料でご提供いたします。／4名様で「ル プリスティン ディナー４コース」（お一人様13,915円（税・サ込み））をご予約のLC会員様に限り、1名様分を無料でご提供いたします。"
+    hours: "ランチ：12:00 ～ 14:00／ディナー：18:00 ～ 21:00／コンシェルジュ経由で事前予約"
+  - active: true
+    name: "THE BELCOMO （ザ　ベルコモ）"
+    official_url: https://www.member.myluxurycard.co.jp/diningdetail/the-belcomo
+    area: "外苑前"
+    prefecture: "東京都"
+    region: "関東"
+    benefit: "2名様以上でTHE BELCOMOディナーコース（お一人様8,500円税込・サ料別）をご予約のLC会員様に限り、1名様分を無料でご提供いたします。／※1グループ、6名様までご予約いただけます。／※別途10%のサービス料を頂戴しております。／※連絡なしにご予約時間より15分以上遅れた場合は自動的にキャンセルとさせていただく場合がございます。キャンセル変更は必ず店舗までご連絡をお願いいたします。"
+    hours: "17:00-23:00 （ FOOD L.O.21:00 / DRINK L.O.22:30）／金-土（ FOOD L.O.22:00 / DRINK L.O.22:30）／コンシェルジュ経由で事前予約"
+  - active: true
+    name: "鮨 塩釜港 銀座 極 -SUSHI SHIOGAMAKOU GINZA KIWAMI-"
+    official_url: https://www.member.myluxurycard.co.jp/diningdetail/%E9%AE%A8-%E5%A1%A9%E9%87%9C%E6%B8%AF-%E9%8A%80%E5%BA%A7-%E6%A5%B5
+    area: "銀座"
+    prefecture: "東京都"
+    region: "関東"
+    benefit: "2名様以上でマグロ極コース（お一人様分38,500円）をご予約の場合、最大3名様分まで無料でご提供いたします。／※1グループ、6名様までご予約いただけます。／コース名　マグロ極コース　38,500円（税込・サ料10%別）"
+    hours: "月曜～土曜、祝日（日曜のみ店休）／1部　18:00～19:30（1時間30分）／2部　20:00～21:30（1時間30分）／※ご予約はご利用の24時間前までにお願いします。／コンシェルジュ経由で事前予約"
+  - active: true
+    name: "レストラン ラ メゾン キオイ / 赤坂プリンスクラシックハウス"
+    official_url: https://www.member.myluxurycard.co.jp/diningdetail/%E3%83%AC%E3%82%B9%E3%83%88%E3%83%A9%E3%83%B3-%E3%83%A9-%E3%83%A1%E3%82%BE%E3%83%B3-%E3%82%AD%E3%82%AA%E3%82%A4-%2F-%E8%B5%A4%E5%9D%82%E3%83%97%E3%83%AA%E3%83%B3%E3%82%B9%E3%82%AF%E3%83%A9%E3%82%B7%E3%83%83%E3%82%AF%E3%83%8F%E3%82%A6%E3%82%B9
+    area: "紀尾井町"
+    prefecture: "東京都"
+    region: "関東"
+    benefit: "2名様以上で特別コース（お一人様分15,000円）をご予約の場合、1名様分を無料でご提供いたします。／※1グループ、6名様までご予約いただけます。／・2名様ご予約の場合、1名様無料／・3名様ご予約の場合、1名様無料／・4名様ご予約の場合、2名様無料／・5名様ご予約の場合、2名様無料／・6名様ご予約の場合、3名様無料／※価格には消費税は含まれており、別途10％のサービス料がかかります。"
+    hours: "ディナー：月曜〜木曜 17:30-21:30（LO19:00）/ 金曜 17:30-22:00 （LO19:30）/ 土・日 17:30-22:30（LO20:30）／※ディナーのご利用は当日16:00までのご予約制となります。／コンシェルジュ経由で事前予約"
+    notice: "改装工事に伴い、2026年7月25日～2026年10月2日は本優待を利用不可"
+  - active: true
+    name: "MAIN DINING sereno（THE MARK GRAND HOTEL）"
+    official_url: https://www.member.myluxurycard.co.jp/diningdetail/main-dining-sereno
+    area: "埼玉"
+    prefecture: "埼玉県"
+    region: "関東"
+    benefit: "2名様以上でお一人様10,000円 （税込・サ料別）の特別コースをご予約の場合、1名様分を無料でご提供いたします。／※1グループ、4名様までご予約いただけます。／・2名様以上のご利用で1名様無料／・3名様以上のご利用で1名様無料／・4名様以上のご利用で2名様無料"
+    hours: "17:00〜20:30（L.O.）／コンシェルジュ経由で事前予約"
+  - active: true
+    name: "La Bastide sur la mer"
+    official_url: https://www.member.myluxurycard.co.jp/diningdetail/la-bastide-sur-la-mer
+    area: "湘南・鎌倉"
+    prefecture: "神奈川県"
+    region: "関東"
+    benefit: "2名様以上でプレステージコース（お一人様8,800円 / 税込・サ料別）をご予約の場合、1名様分を無料でご提供いたします。／※1グループ、6名様までご予約いただけます。／※別途10%のサービス料を頂戴しております。／※キャンセルにつきましては前日50％当日100％頂戴しております。連絡なしにご予約時間より15分以上遅れた場合は自動的にキャンセルとさせていただく場合がございます。キャンセル変更は必ず店舗までご連絡をお願いいたします。"
+    hours: "毎日／コンシェルジュ経由で事前予約"
+  - active: true
+    name: "KINO WINE SHOP & CAFE DINING"
+    official_url: https://www.member.myluxurycard.co.jp/diningdetail/kino--wine-shop-%26-cafe-dininig
+    area: "湘南・鎌倉"
+    prefecture: "神奈川県"
+    region: "関東"
+    benefit: "2名様以上でLCプレミアムコース（お一人様あたり8,000円税込・サ料別）をご予約の場合、1名様分を無料でご提供いたします。／※1グループ、6名様までご予約いただけます。／※別途10%のサービス料を頂戴しております。／※連絡なしにご予約時間より15分以上遅れた場合は自動的にキャンセルとさせていただく場合がございます。キャンセル変更は必ず店舗までご連絡をお願いいたします。"
+    hours: "毎日（定休日以外）/ ディナータイム／コンシェルジュ経由で事前予約"
+  - active: true
+    name: "Johnnie's Brasserie (ジョニーズ ブラッセリー)"
+    official_url: https://www.member.myluxurycard.co.jp/diningdetail/johnnie's-brasserie
+    area: "愛知"
+    prefecture: "愛知県"
+    region: "東海"
+    benefit: "2名様以上でLC特別コース（お一人様あたり税込15,000円）をご予約の場合、1名様分を無料でご提供いたします。／※1グループ、6名様までご予約いただけます。／※価格には消費税は含まれており、別途10％のサービス料がかかります。"
+    hours: "ディナー 18:00～23:00（20:00 LO フード／22:00 LO ドリンク）／コンシェルジュ経由で事前予約"
+  - active: true
+    name: "ベンジャミンステーキハウスKITTE大阪店"
+    official_url: https://www.member.myluxurycard.co.jp/diningdetail/%E3%83%99%E3%83%B3%E3%82%B8%E3%83%A3%E3%83%9F%E3%83%B3%E3%82%B9%E3%83%86%E3%83%BC%E3%82%AD%E3%83%8F%E3%82%A6%E3%82%B9kitte%E5%A4%A7%E9%98%AA%E5%BA%97
+    area: "大阪"
+    prefecture: "大阪府"
+    region: "関西"
+    benefit: "2名様以上でUSDA プライム　ポーターハウスステーキ（熟成肉）コース（お一人様あたり22,000円）をご予約の場合、1名様分を無料でご提供いたします。／※1グループ、6名様までご予約いただけます。／※ご連絡なくご予約時間より30分以上遅れた場合は、自動的にキャンセルとさせていただくことがございます。／※ご予約2日前までのキャンセルは無料、前日のキャンセルは50％、当日のキャンセルは100％のキャンセル料を申し受けます。／※キャンセルの際は、直接店舗へお電話（06-6440-7733）にてご連絡ください。"
+    hours: "【月曜～金曜日】／Lunch 11:00-15:00（Food / Drink L.O. 14:00）／Dinner 17:00-23:00（Food L.O. 21:30 / Drink L.O. 22:00）／【土曜・日曜・祝日】／11:00-23:00（Food L.O. 21:30 / Drink L.O. 22:00）／コンシェルジュ経由で事前予約"
+  - active: true
+    name: "THE COSMOPOLITAN / GRILL / BAR / TERRACE"
+    official_url: https://www.member.myluxurycard.co.jp/diningdetail/the-cosmopolitan
+    area: "大阪"
+    prefecture: "大阪府"
+    region: "関西"
+    benefit: "2名様以上でLC特別コース（お一人様あたり15,000円（税・サ料込））をご予約の場合、1名様分を無料でご提供いたします。／※1グループ、6名様までご予約いただけます。"
+    hours: "ディナー 17:30-23:00／（コース LO 21:00 / アラカルト  LO21:30 / ドリンク  LO 22:30）／コンシェルジュ経由で事前予約"
+  - active: true
+    name: "ベンジャミン ステーキハウス京都"
+    official_url: https://www.member.myluxurycard.co.jp/diningdetail/%E3%83%99%E3%83%B3%E3%82%B8%E3%83%A3%E3%83%9F%E3%83%B3-%E3%82%B9%E3%83%86%E3%83%BC%E3%82%AD%E3%83%8F%E3%82%A6%E3%82%B9%E4%BA%AC%E9%83%BD
+    area: "京都"
+    prefecture: "京都府"
+    region: "関西"
+    benefit: "2名様以上でTボーンステーキコース（23,800円／税・サ料込）をご予約の場合、1名様分を無料でご提供いたします。／※1グループ、6名様までご予約いただけます。／※連絡なしにご予約時間より30分以上遅れた場合は自動的にキャンセルとさせていただく場合がございます。／※2日前（前々日）までのキャンセルは無料です。前日のキャンセルは50%、当日のキャンセルは100%のキャンセル料を頂戴いたします。／※ご予約のキャンセルは、直接店舗（075-253-4466）までお電話にてご連絡ください。"
+    hours: "毎日 17:00-23:00 （LO Food 21:30、Drink 22:00）／コンシェルジュ経由で事前予約"
+  - active: true
+    name: "祇をん 八咫"
+    official_url: https://www.member.myluxurycard.co.jp/diningdetail/%E7%A5%87%E3%82%92%E3%82%93%E5%85%AB%E5%92%AB
+    area: "京都"
+    prefecture: "京都府"
+    region: "関西"
+    benefit: "2名様以上でおまかせコース（お一人様16,500円 税込／サ料10％別）をご予約の場合、1名様分を無料でご提供いたします。／※1グループ、6名様までご予約いただけます。／※ご予約のキャンセルやご変更がある場合は、必ずご予約の2日前までにお電話にてご連絡お願いします。前日・当日のキャンセル、日にち変更、人数変更につきまして、恐れ入りますがキャンセル料100％ご請求させていただきます。"
+    hours: "月曜日〜土曜日 ディナータイム／コンシェルジュ経由で事前予約"
+  - active: true
+    name: "すき焼き十二天 京都"
+    official_url: https://www.member.myluxurycard.co.jp/diningdetail/%E3%81%99%E3%81%8D%E7%84%BC%E3%81%8D%E5%8D%81%E4%BA%8C%E5%A4%A9-%E4%BA%AC%E9%83%BD
+    area: "京都"
+    prefecture: "京都府"
+    region: "関西"
+    benefit: "2名様以上で相盛のすき焼きもしくはしゃぶしゃぶ（お一人様13,200円 / 税込・サービス料別）をご予約の場合、1名様分を無料でご提供いたします。／※1グループ、6名様までご予約いただけます。／※別途10%のサービス料を頂戴しております。／※連絡なしにご予約時間より15分以上遅れた場合は自動的にキャンセルとさせていただく場合がございます。キャンセル変更は必ず店舗までご連絡をお願いいたします。"
+    hours: "毎日 / ディナータイム／コンシェルジュ経由で事前予約"
+  - active: true
+    name: "restaurant library the hotel seiryu"
+    official_url: https://www.member.myluxurycard.co.jp/diningdetail/restaurant-library-the-hotel-seiryu
+    area: "京都"
+    prefecture: "京都府"
+    region: "関西"
+    benefit: "2名様以上でコース①またはコース②をご予約の場合、1名様分を無料でご提供いたします。／※1グループ、6名様までご予約いただけます。／コース①：シグネチャーコース“Sushi -Temari”／コース料金：お一人様 9,775円（税サ込）／コース②：寿司会席／コース料金：お一人様 15,000円（税サ込）"
+    hours: "毎日 / 6:00P.M.- 10:00P.M. （LO 9:00P.M.)／コンシェルジュ経由で事前予約"
+  - active: true
+    name: "KURO KYOTO（旧ザ ソウドウ 東山京都）"
+    official_url: https://www.member.myluxurycard.co.jp/diningdetail/%E3%82%B6-%E3%82%BD%E3%82%A6%E3%83%89%E3%82%A6-%E6%9D%B1%E5%B1%B1%E4%BA%AC%E9%83%BD-l-the-sodoh-higashiyama-kyoto
+    area: "東山"
+    prefecture: "京都府"
+    region: "関西"
+    benefit: "2名様以上でお一人様 18,700円（税・サ料込）の和食のコースをご予約の場合、1名様分を無料でご提供いたします。"
+    hours: "17:30 - 22:00（L.O.20:00）／※土日祝は優待対象外となります。／コンシェルジュ経由で事前予約"
+  - active: true
+    name: "A LONG VACATION.（オールデイダイニング）"
+    official_url: https://www.member.myluxurycard.co.jp/diningdetail/a-long-vacation
+    area: "那覇"
+    prefecture: "沖縄県"
+    region: "沖縄"
+    benefit: "2名様以上で対象コースをご予約の場合、1名様分を無料にてご提供いたします。／ランチ：SEASONAL LUNCH（3,500円 税込・サ料別）／ディナー：LONG VACATION COURCE（6,000円 税込‧サ別）／※1グループ、6名様までご予約いただけます。／・2名様ご予約の場合、1名様無料／・3名様ご予約の場合、1名様無料／・4名様ご予約の場合、2名様無料／・5名様ご予約の場合、2名様無料／・6名様ご予約の場合、3名様無料／※価格には消費税は含まれており、別途10％のサービス料がかかります。"
+    hours: "ランチ　11:00～15:00（LO）／ディナー　17:00～21:00（LO）／コンシェルジュ経由で事前予約"
+  - active: true
+    name: "SHIKAKU"
+    official_url: https://www.member.myluxurycard.co.jp/diningdetail/shikaku
+    area: "沖縄"
+    prefecture: "沖縄県"
+    region: "沖縄"
+    benefit: "2名様以上で国産牛とあぐー豚のしゃぶしゃぶ（8,500円 税込・サ料別）をご予約の場合、1名様分を無料でご提供いたします。／※1グループ、6名様までご予約いただけます。／・2名様ご予約の場合、1名様無料／・3名様ご予約の場合、1名様無料／・4名様ご予約の場合、2名様無料／・5名様ご予約の場合、2名様無料／・6名様ご予約の場合、3名様無料／※価格には消費税は含まれており、別途10％のサービス料がかかります。"
+    hours: "17:00～21:00（LO）／コンシェルジュ経由で事前予約"
+  - active: true
+    name: "まつ尾"
+    official_url: https://www.member.myluxurycard.co.jp/diningdetail/%E3%81%BE%E3%81%A4%E5%B0%BE
+    area: "沖縄"
+    prefecture: "沖縄県"
+    region: "沖縄"
+    benefit: "2名様以上で対象コースをご予約の場合、1名様分を無料にてご提供いたします。／ランチ：MATSUO GRAND COURSE（7,000円／税込・サ料別）／ディナー：PREMIUM COURSE（25,000円／税込・サ料別）／※1グループ、6名様までご予約いただけます。／・2名様ご予約の場合、1名様無料／・3名様ご予約の場合、1名様無料／・4名様ご予約の場合、2名様無料／・5名様ご予約の場合、2名様無料／・6名様ご予約の場合、3名様無料／※価格には消費税は含まれており、別途10％のサービス料がかかります。"
+    hours: "ランチ　11:00～14:00（LO）／ディナー　17:00～21:00（LO）／コンシェルジュ経由で事前予約"
+  - active: true
+    name: "Lonich, Fukuoka"
+    official_url: https://www.member.myluxurycard.co.jp/diningdetail/lonich%2C-fukuoka
+    area: "福岡"
+    prefecture: "福岡県"
+    region: "九州"
+    benefit: "2名様以上で、以下の2つの対象コースをご予約の場合、1名様分を無料でご提供いたします。／対象コース内容（税・サ料込）／①CREATIVE COURSE 　お一人様4,500円／②COLLECTIVE COURSE　お一人様8,500円／※1グループ、4名様までご予約いただけます。／2名様以上のご利⽤で1名様無料／3名様以上のご利⽤で1名様無料／4名様以上のご利⽤で2名様無料／※ご予約後のキャンセルにつきましては、お一人様あたり4,500円のキャンセル料を申し受けます。また、当日キャンセルおよび無断キャンセルの場合は、ご予約コースの人数分のキャンセル料を申し受けます。あらかじめご了承ください。"
+    hours: "平日 9:00〜17:00／土日祝 9:00〜19:00／コンシェルジュ経由で事前予約"

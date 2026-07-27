@@ -1,0 +1,4 @@
+interface:
+  display_name: "Luxury Card特典更新"
+  short_description: "Browserで公式会員ページを確認し特典YAMLを安全に更新します"
+  default_prompt: "Use $update-luxury-card-benefits to inspect the official member pages in Browser and refresh the benefit YAML files."

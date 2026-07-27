@@ -1,0 +1,56 @@
+---
+import type { BenefitVenue } from "../lib/benefits";
+
+interface Props {
+  venue: BenefitVenue;
+}
+
+const { venue } = Astro.props;
+---
+
+<article class="benefit-card">
+  <header class="card-header">
+    <div>
+      <h3>{venue.name}</h3>
+      <p class="venue-area">{venue.prefecture} · {venue.area}</p>
+    </div>
+  </header>
+  <div class="card-body">
+    {
+      venue.benefit && (
+        <div class="detail-block">
+          <h4>優待内容</h4>
+          <p>{venue.benefit}</p>
+        </div>
+      )
+    }
+    {
+      venue.hours && (
+        <div class="detail-block">
+          <h4>利用条件・時間</h4>
+          <p>{venue.hours}</p>
+        </div>
+      )
+    }
+    {
+      venue.notice && (
+        <div class="notice">
+          <strong>お知らせ</strong>
+          <p>{venue.notice}</p>
+        </div>
+      )
+    }
+    {
+      venue.officialUrl && (
+        <a
+          class="official-link"
+          href={venue.officialUrl}
+          target="_blank"
+          rel="noreferrer"
+        >
+          公式詳細を見る
+        </a>
+      )
+    }
+  </div>
+</article>
