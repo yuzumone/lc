@@ -195,7 +195,7 @@ venues:
     region: "関東"
     benefit: "コースをご注文のLC会員様に限り、アペリティフをお一人様につき1杯（1予約につき最大6名様まで）プレゼントいたします。／※他の特典との併用は不可。／※前日までのご予約が必要です。"
     hours: "ランチ 11:00～15:30（LO14:00）／ディナー 17:30～ 23:00（LO21:00）／原則3日前までにコンシェルジュ経由で要予約"
-  - active: false
+  - active: true
     name: "est / エスト"
     official_url: https://www.member.myluxurycard.co.jp/diningdetail/est
     area: "大手町"

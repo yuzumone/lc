@@ -69,6 +69,14 @@ venues:
     hours: 平日 14:00以降／土日祝 15:30以降
     notice: 2026年8月1日〜10月2日は改装工事のため優待利用不可
   - active: true
+    name: Slow Rush Coffee
+    official_url: https://www.member.myluxurycard.co.jp/diningdetail/slow-rush-coffee
+    area: 湘南・鎌倉
+    prefecture: 神奈川県
+    region: 関東
+    benefit: カフェドリンク1杯無料。Black Diamond・Goldは毎日、Blackは月2回、Titaniumは月1回
+    hours: 11:00〜18:00（火曜定休）
+  - active: true
     name: Constellation.
     official_url: https://www.member.myluxurycard.co.jp/diningdetail/constellation
     area: 横浜
@@ -84,14 +92,6 @@ venues:
     region: 関東
     benefit: ドリンク1杯無料。Black Diamond・Goldは毎日、Blackは月2回、Titaniumは月1回
     hours: 金・土・日 11:00〜23:00（月〜木定休）
-  - active: true
-    name: Slow Rush Coffee
-    official_url: https://www.member.myluxurycard.co.jp/diningdetail/slow-rush-coffee
-    area: 湘南・鎌倉
-    prefecture: 神奈川県
-    region: 関東
-    benefit: カフェドリンク1杯無料。Black Diamond・Goldは毎日、Blackは月2回、Titaniumは月1回
-    hours: 11:00〜18:00（火曜定休）
   - active: true
     name: KINO WINE SHOP & CAFE DINING
     official_url: https://www.member.myluxurycard.co.jp/diningdetail/kino--wine-shop-%26-cafe-dininig

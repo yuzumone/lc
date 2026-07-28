@@ -12,14 +12,6 @@ venues:
     benefit: 会計時に10％割引
     hours: 全カード会員・月〜日
   - active: true
-    name: バーラウンジ（ホテル創成札幌 Mギャラリーコレクション内）
-    official_url: https://www.member.myluxurycard.co.jp/diningdetail/%E3%83%90%E3%83%BC%E3%83%A9%E3%82%A6%E3%83%B3%E3%82%B8(%E3%83%9B%E3%83%86%E3%83%AB%E5%89%B5%E6%88%90%E6%9C%AD%E5%B9%8C-m%E3%82%AE%E3%83%A3%E3%83%A9%E3%83%AA%E3%83%BC%E3%82%B3%E3%83%AC%E3%82%AF%E3%82%B7%E3%83%A7%E3%83%B3%E5%86%85)
-    area: 札幌
-    prefecture: 北海道
-    region: 北海道
-    benefit: お一人様3,000円（税・サービス料込）で、フリーフローと日替わり軽食
-    hours: Black Diamond・Gold・Blackは月〜金、Titaniumは月〜木／17:00〜19:00
-  - active: true
     name: Norva／インターコンチネンタルホテル札幌
     official_url: https://www.member.myluxurycard.co.jp/diningdetail/norva
     area: 札幌
@@ -27,6 +19,14 @@ venues:
     region: 北海道
     benefit: 対象ドリンク1杯の注文でもう1杯と「本日のおつまみ」1品をサービス
     hours: 17:00〜19:30
+  - active: true
+    name: バーラウンジ（ホテル創成札幌 Mギャラリーコレクション内）
+    official_url: https://www.member.myluxurycard.co.jp/diningdetail/%E3%83%90%E3%83%BC%E3%83%A9%E3%82%A6%E3%83%B3%E3%82%B8(%E3%83%9B%E3%83%86%E3%83%AB%E5%89%B5%E6%88%90%E6%9C%AD%E5%B9%8C-m%E3%82%AE%E3%83%A3%E3%83%A9%E3%83%AA%E3%83%BC%E3%82%B3%E3%83%AC%E3%82%AF%E3%82%B7%E3%83%A7%E3%83%B3%E5%86%85)
+    area: 札幌
+    prefecture: 北海道
+    region: 北海道
+    benefit: お一人様3,000円（税・サービス料込）で、フリーフローと日替わり軽食
+    hours: Black Diamond・Gold・Blackは月〜金、Titaniumは月〜木／17:00〜19:00
   - active: true
     name: YEBISU BREWERY TOKYO（ヱビス ブルワリー トウキョウ）
     official_url: https://www.member.myluxurycard.co.jp/diningdetail/yebisu-brewery-tokyo
@@ -108,14 +108,6 @@ venues:
     benefit: シャンパーニュなど2杯とおつまみ3,000円。Black Diamond・Gold限定プランは4,000円（税込）
     hours: Black Diamond・Gold・Blackは毎日、Titaniumは月〜金／平日17:00〜19:30、土日祝17:00〜19:00
   - active: true
-    name: InterContinental Yokohama Pier 8
-    official_url: https://www.member.myluxurycard.co.jp/diningdetail/intercontinental-yokohama-pier-8
-    area: 横浜
-    prefecture: 神奈川県
-    region: 関東
-    benefit: お一人様4,000円（税・サービス料込）で、アペタイザー3種とお好きなドリンク2杯
-    hours: Black Diamond・Gold・Blackは日〜金、Titaniumは月〜金／17:00〜19:30（LO 19:00）
-  - active: true
     name: Les Demoiselles Wine Salon（レ・ドゥモワゼル ワインサロン）
     official_url: https://www.member.myluxurycard.co.jp/diningdetail/les-demoiselles-wine-salon-(%E3%83%AC%E3%83%BB%E3%83%89%E3%82%A5%E3%83%A2%E3%83%AF%E3%82%BC%E3%83%AB-%E3%83%AF%E3%82%A4%E3%83%B3%E3%82%B5%E3%83%AD%E3%83%B3)
     area: 銀座
@@ -123,6 +115,14 @@ venues:
     region: 関東
     benefit: テルモンロゼ1杯とマカロン3個3,300円、または2名までシャンパンボトル、キャビア、限定料理33,000円
     hours: 平日 18:00〜24:00。18:00〜20:00および土日祝は要予約
+  - active: true
+    name: WINE MARKET PARTY恵比寿店
+    official_url: https://www.member.myluxurycard.co.jp/diningdetail/wine-market-party%E6%81%B5%E6%AF%94%E5%AF%BF%E5%BA%97
+    area: 恵比寿
+    prefecture: 東京都
+    region: 関東
+    benefit: シャンパーニュ2杯とスナック2,200円。Black Diamond・Gold限定プランは3,300円（税込）
+    hours: Black Diamond・Gold・Blackは毎日、Titaniumは月〜金／17:00〜20:00（LO 19:30）
   - active: true
     name: Constellation.
     official_url: https://www.member.myluxurycard.co.jp/diningdetail/constellation
@@ -140,13 +140,13 @@ venues:
     benefit: ワイン1杯無料
     hours: 毎日（定休日を除く）17:00〜
   - active: true
-    name: WINE MARKET PARTY恵比寿店
-    official_url: https://www.member.myluxurycard.co.jp/diningdetail/wine-market-party%E6%81%B5%E6%AF%94%E5%AF%BF%E5%BA%97
-    area: 恵比寿
-    prefecture: 東京都
+    name: InterContinental Yokohama Pier 8
+    official_url: https://www.member.myluxurycard.co.jp/diningdetail/intercontinental-yokohama-pier-8
+    area: 横浜
+    prefecture: 神奈川県
     region: 関東
-    benefit: シャンパーニュ2杯とスナック2,200円。Black Diamond・Gold限定プランは3,300円（税込）
-    hours: Black Diamond・Gold・Blackは毎日、Titaniumは月〜金／17:00〜20:00（LO 19:30）
+    benefit: お一人様4,000円（税・サービス料込）で、アペタイザー3種とお好きなドリンク2杯
+    hours: Black Diamond・Gold・Blackは日〜金、Titaniumは月〜金／17:00〜19:30（LO 19:00）
   - active: true
     name: 名古屋プリンスホテル スカイタワー
     official_url: https://www.member.myluxurycard.co.jp/diningdetail/%E5%90%8D%E5%8F%A4%E5%B1%8B%E3%83%97%E3%83%AA%E3%83%B3%E3%82%B9%E3%83%9B%E3%83%86%E3%83%AB-%E3%82%B9%E3%82%AB%E3%82%A4%E3%82%BF%E3%83%AF%E3%83%BC
@@ -196,13 +196,21 @@ venues:
     benefit: Black Diamond・Gold・Blackはプレミアムウイスキーと料理2品5,000円。Black・Titaniumは対象ドリンク2杯と料理2品3,000円
     hours: Black Diamond・Gold・Blackは毎日、Titaniumは月〜金／6:30〜20:20（LO 20:00）
   - active: true
-    name: 季の美ハウス
-    official_url: https://www.member.myluxurycard.co.jp/diningdetail/%E5%AD%A3%E3%81%AE%E7%BE%8E%E3%83%8F%E3%82%A6%E3%82%B9
-    area: 河原町二条
+    name: 幾星 京都蒸溜室
+    official_url: https://www.member.myluxurycard.co.jp/diningdetail/%E5%B9%BE%E6%98%9F-%E4%BA%AC%E9%83%BD%E8%92%B8%E6%BA%9C%E5%AE%A4
+    area: 七条
     prefecture: 京都府
     region: 関西
-    benefit: カクテル2杯とスナックなどのカード別プランをお一人様2,600円（税込）で提供
-    hours: 全カード会員／水〜日 14:00〜20:00（LO 19:30）
+    benefit: 季節の素材を使ったLC限定ノンアルコールカクテル1杯2,500円（税込・チャージ料込）
+    hours: 14:00〜22:00（水・木定休）
+  - active: true
+    name: 喫酒 幾星
+    official_url: https://www.member.myluxurycard.co.jp/diningdetail/%E5%96%AB%E9%85%92-%E5%B9%BE%E6%98%9F
+    area: 祇園
+    prefecture: 京都府
+    region: 関西
+    benefit: LC限定ヴィンテージリキュールカクテル1杯3,300円（税込）、チャージ料無料
+    hours: 17:00〜24:00（日曜定休）
   - active: true
     name: KURO KYOTO（旧ザ ソウドウ 東山京都）
     official_url: https://www.member.myluxurycard.co.jp/diningdetail/%E3%82%B6-%E3%82%BD%E3%82%A6%E3%83%89%E3%82%A6-%E6%9D%B1%E5%B1%B1%E4%BA%AC%E9%83%BD-l-the-sodoh-higashiyama-kyoto
@@ -220,21 +228,13 @@ venues:
     benefit: 2ドリンクとスナック5,000円、またはフリーフローとスナック6,000円（税・サービス料別）
     hours: 全カード会員／15:00〜24:00（Food LO 23:00、Drink LO 23:30）
   - active: true
-    name: 幾星 京都蒸溜室
-    official_url: https://www.member.myluxurycard.co.jp/diningdetail/%E5%B9%BE%E6%98%9F-%E4%BA%AC%E9%83%BD%E8%92%B8%E6%BA%9C%E5%AE%A4
-    area: 七条
+    name: ミスター・モーリスズ・イタリアン＆ルーフトップバー
+    official_url: https://www.member.myluxurycard.co.jp/diningdetail/%E3%83%9F%E3%82%B9%E3%82%BF%E3%83%BC%E3%83%BB%E3%83%A2%E3%83%BC%E3%83%AA%E3%82%B9%E3%82%BA%E3%83%BB%E3%82%A4%E3%82%BF%E3%83%AA%E3%82%A2%E3%83%B3-%26-%E3%83%AB%E3%83%BC%E3%83%95%E3%83%88%E3%83%83%E3%83%97%E3%83%90%E3%83%BC
+    area: 烏丸御池
     prefecture: 京都府
     region: 関西
-    benefit: 季節の素材を使ったLC限定ノンアルコールカクテル1杯2,500円（税込・チャージ料込）
-    hours: 14:00〜22:00（水・木定休）
-  - active: true
-    name: 喫酒 幾星
-    official_url: https://www.member.myluxurycard.co.jp/diningdetail/%E5%96%AB%E9%85%92-%E5%B9%BE%E6%98%9F
-    area: 祇園
-    prefecture: 京都府
-    region: 関西
-    benefit: LC限定ヴィンテージリキュールカクテル1杯3,300円（税込）、チャージ料無料
-    hours: 17:00〜24:00（日曜定休）
+    benefit: 愛犬同伴で、スパークリングワイン1杯と前菜盛り合わせ3,800円（税・サービス料込）、愛犬にビスケット
+    hours: ランチ 11:30〜15:00／ティー 土日祝15:00〜17:30／ディナー 17:30〜22:00
   - active: true
     name: ザ・ホテル青龍 京都清水
     official_url: https://www.member.myluxurycard.co.jp/diningdetail/%E3%82%B6%E3%83%BB%E3%83%9B%E3%83%86%E3%83%AB%E9%9D%92%E9%BE%8D-%E4%BA%AC%E9%83%BD%E6%B8%85%E6%B0%B4
@@ -243,6 +243,14 @@ venues:
     region: 関西
     benefit: お一人様6,000円（税・サービス料込）で、グラスシャンパン2杯と季節のチャーム
     hours: Black Diamond・Gold・Blackは毎日、Titaniumは月〜木／15:00〜18:00（LO 17:30）
+  - active: true
+    name: 季の美ハウス
+    official_url: https://www.member.myluxurycard.co.jp/diningdetail/%E5%AD%A3%E3%81%AE%E7%BE%8E%E3%83%8F%E3%82%A6%E3%82%B9
+    area: 河原町二条
+    prefecture: 京都府
+    region: 関西
+    benefit: カクテル2杯とスナックなどのカード別プランをお一人様2,600円（税込）で提供
+    hours: 全カード会員／水〜日 14:00〜20:00（LO 19:30）
   - active: true
     name: ホテル ラ・スイート神戸ハーバーランド
     official_url: https://www.member.myluxurycard.co.jp/diningdetail/%E3%83%9B%E3%83%86%E3%83%AB-%E3%83%A9%E3%83%BB%E3%82%B9%E3%82%A4%E3%83%BC%E3%83%88%E7%A5%9E%E6%88%B8%E3%83%8F%E3%83%BC%E3%83%90%E3%83%BC%E3%83%A9%E3%83%B3%E3%83%89
@@ -275,11 +283,3 @@ venues:
     region: 沖縄
     benefit: 2ドリンクとライトミール3,500円、または60分シャンパンフリーフローとライトミール7,000円（税込・サービス料別）
     hours: 17:00〜22:00（LO）
-  - active: true
-    name: ミスター・モーリスズ・イタリアン＆ルーフトップバー
-    official_url: https://www.member.myluxurycard.co.jp/diningdetail/%E3%83%9F%E3%82%B9%E3%82%BF%E3%83%BC%E3%83%BB%E3%83%A2%E3%83%BC%E3%83%AA%E3%82%B9%E3%82%BA%E3%83%BB%E3%82%A4%E3%82%BF%E3%83%AA%E3%82%A2%E3%83%B3-%26-%E3%83%AB%E3%83%BC%E3%83%95%E3%83%88%E3%83%83%E3%83%97%E3%83%90%E3%83%BC
-    area: 烏丸御池
-    prefecture: 京都府
-    region: 関西
-    benefit: 愛犬同伴で、スパークリングワイン1杯と前菜盛り合わせ3,800円（税・サービス料込）、愛犬にビスケット
-    hours: ランチ 11:30〜15:00／ティー 土日祝15:00〜17:30／ディナー 17:30〜22:00

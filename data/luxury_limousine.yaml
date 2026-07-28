@@ -4,22 +4,6 @@ last_checked: 2026-07-24
 source: https://www.member.myluxurycard.co.jp/serviceinfo/dining/limousine
 venues:
   - active: true
-    name: "EMPIRE STEAK HOUSE ROPPONGI（エンパイアステーキハウス六本木）"
-    official_url: https://www.member.myluxurycard.co.jp/diningdetail/empire-steak-house-roppongi%EF%BC%88%E3%82%A8%E3%83%B3%E3%83%91%E3%82%A4%E3%82%A2%E3%82%B9%E3%83%86%E3%83%BC%E3%82%AD%E3%83%8F%E3%82%A6%E3%82%B9%E5%85%AD%E6%9C%AC%E6%9C%A8%EF%BC%89
-    area: "六本木"
-    prefecture: "東京都"
-    region: "関東"
-    benefit: "対象コース（エンペラーステーキコース、季節のキング・オブ・ステーキコース：コース 23,800円、25,800円(税込・サービス料10%別)）の予約で、Black Diamond／Goldは往路または復路、Blackは往路の片道ハイヤー送迎"
-    hours: "ディナー 平日・金・土17:00～23:30（LO：Food 22:30/Drink 23:00）/ 日・祝日　17:00～23:00（LO：Food 22:00/Drink 22:30）／利用希望日時の72時間前までにコンシェルジュ経由で要予約"
-  - active: true
-    name: "C:GRILL"
-    official_url: https://www.member.myluxurycard.co.jp/diningdetail/c%3Agrill
-    area: "中之島"
-    prefecture: "大阪府"
-    region: "関西"
-    benefit: "対象コース（ディナーコース：関西ローカルガストロノミー 19,000円（税・サ料込））の予約で、Black Diamond／Goldは往路または復路、Blackは往路の片道ハイヤー送迎"
-    hours: "ディナー：【水曜〜日曜】17:30～LO20:30／利用希望日時の72時間前までにコンシェルジュ経由で要予約／1組（4名様まで）／キャンセルポリシー：3日前〜100%／ご予約の内容に変更がある場合、前日までに必ずご連絡ください。／テーブル席 40席(個室1室、8名含む)、カウンター席9席"
-  - active: true
     name: "無垢"
     official_url: https://www.member.myluxurycard.co.jp/diningdetail/%E3%80%90260424%E3%80%91%E7%84%A1%E5%9E%A2
     area: "西麻布"
@@ -57,6 +41,14 @@ venues:
     region: "関東"
     benefit: "対象コース（ディナーコース：21,780円（税込・サ料10%別））の予約で、Black Diamond／Goldは往路または復路、Blackは往路の片道ハイヤー送迎"
     hours: "18:00 - 20:30 (Lo) / 23:00 (Close)／利用希望日時の72時間前までにコンシェルジュ経由で要予約／キャンセル料　前日：コース金額の50%、 当日：コース料理の100%／アレルギー食材が多い方やベジタリアン、グルテンフリーの方、重篤な乳糖不耐症を抱えている方はご予約をお断りすることがございます。"
+  - active: true
+    name: "EMPIRE STEAK HOUSE ROPPONGI（エンパイアステーキハウス六本木）"
+    official_url: https://www.member.myluxurycard.co.jp/diningdetail/empire-steak-house-roppongi%EF%BC%88%E3%82%A8%E3%83%B3%E3%83%91%E3%82%A4%E3%82%A2%E3%82%B9%E3%83%86%E3%83%BC%E3%82%AD%E3%83%8F%E3%82%A6%E3%82%B9%E5%85%AD%E6%9C%AC%E6%9C%A8%EF%BC%89
+    area: "六本木"
+    prefecture: "東京都"
+    region: "関東"
+    benefit: "対象コース（エンペラーステーキコース、季節のキング・オブ・ステーキコース：コース 23,800円、25,800円(税込・サービス料10%別)）の予約で、Black Diamond／Goldは往路または復路、Blackは往路の片道ハイヤー送迎"
+    hours: "ディナー 平日・金・土17:00～23:30（LO：Food 22:30/Drink 23:00）/ 日・祝日　17:00～23:00（LO：Food 22:00/Drink 22:30）／利用希望日時の72時間前までにコンシェルジュ経由で要予約"
   - active: true
     name: "La BOMBANCE（ラ・ボンバンス）"
     area: "西麻布"
@@ -448,6 +440,14 @@ venues:
     region: "関西"
     benefit: "対象コース（ディナーコース：27,500円、33,000円、38,500円（全て税込・サ料10%別））の予約で、Black Diamond／Goldは往路または復路、Blackは往路の片道ハイヤー送迎"
     hours: "17:30～22:00（LO20:00）／利用希望日時の72時間前までにコンシェルジュ経由で要予約"
+  - active: true
+    name: "C:GRILL"
+    official_url: https://www.member.myluxurycard.co.jp/diningdetail/c%3Agrill
+    area: "中之島"
+    prefecture: "大阪府"
+    region: "関西"
+    benefit: "対象コース（ディナーコース：関西ローカルガストロノミー 19,000円（税・サ料込））の予約で、Black Diamond／Goldは往路または復路、Blackは往路の片道ハイヤー送迎"
+    hours: "ディナー：【水曜〜日曜】17:30～LO20:30／利用希望日時の72時間前までにコンシェルジュ経由で要予約／1組（4名様まで）／キャンセルポリシー：3日前〜100%／ご予約の内容に変更がある場合、前日までに必ずご連絡ください。／テーブル席 40席(個室1室、8名含む)、カウンター席9席"
   - active: true
     name: "蔵 - 鉄板焼&寿司"
     official_url: https://www.member.myluxurycard.co.jp/diningdetail/%E8%94%B5---%E9%89%84%E6%9D%BF%E7%84%BC%26%E5%AF%BF%E5%8F%B8
