@@ -140,7 +140,12 @@ const description =
         data-view-button="map"
         aria-pressed="false"
       >
-        <span class="view-icon map-icon" aria-hidden="true">⌖</span>
+        <span class="view-icon map-icon" aria-hidden="true">
+          <svg viewBox="0 0 24 24" focusable="false">
+            <circle cx="12" cy="12" r="6.5"></circle>
+            <path d="M12 2v4M12 18v4M2 12h4M18 12h4"></path>
+          </svg>
+        </span>
         <span>マップ</span>
       </button>
     </div>
