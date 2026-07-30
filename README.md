@@ -48,6 +48,13 @@ When updating the data, use the repository's `$update-luxury-card-benefits` skil
 - `data/luxury_limousine.yaml`
 - `data/luxury_upgrade.yaml`
 
+## License
+
+The source code in this repository is licensed under the [MIT License](LICENSE).
+
+Files under `data/`, Luxury Card benefit information, trademarks, and third-party content are not covered by the MIT License.
+Rights to such content belong to their respective owners.
+
 ## Other
 
 This is an unofficial site and is not affiliated with Luxury Card.
