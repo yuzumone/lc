@@ -14,6 +14,7 @@ const canonical = siteUrl
   : undefined;
 const ogImage = new URL("/og.png", siteUrl || Astro.site).toString();
 const adsenseClient = import.meta.env.PUBLIC_ADSENSE_CLIENT;
+const googleAnalyticsId = import.meta.env.PUBLIC_GOOGLE_ANALYTICS_ID?.trim();
 ---
 
 <!doctype html>
@@ -48,6 +49,23 @@ const adsenseClient = import.meta.env.PUBLIC_ADSENSE_CLIENT;
           src={`https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=${encodeURIComponent(adsenseClient)}`}
           crossorigin="anonymous"
         />
+      )
+    }
+    {
+      googleAnalyticsId && (
+        <>
+          <script
+            is:inline
+            async
+            src={`https://www.googletagmanager.com/gtag/js?id=${encodeURIComponent(googleAnalyticsId)}`}
+          />
+          <script is:inline define:vars={{ googleAnalyticsId }}>
+            window.dataLayer = window.dataLayer || [];
+            function gtag() { dataLayer.push(arguments); }
+            gtag("js", new Date());
+            gtag("config", googleAnalyticsId);
+          </script>
+        </>
       )
     }
   </head>

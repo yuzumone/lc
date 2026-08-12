@@ -1,16 +1,23 @@
 ---
 name: update-luxury-card-benefits
-description: Update and verify this repository's Luxury Card benefit YAML files from the official member website. Use when asked to refresh, synchronize, audit, add, remove, or correct Cafe Hour, Lounge Hour, Luxury Limousine, Luxury Upgrade, or Luxury Dining venue data under data. Use the Browser plugin to inspect the live pages, including authenticated content when the user has signed in.
+description: Update and verify this repository's Luxury Card benefit YAML files from the official member website. Use when asked to refresh, synchronize, audit, add, remove, or correct Cafe Hour, Lounge Hour, Luxury Limousine, Luxury Upgrade, or Luxury Dining venue data under data. Use curl for public official-page collection and Browser to verify changes or content that curl cannot retrieve completely.
 ---
 
 # Update Luxury Card Benefits
 
-Use the Browser plugin as the source-reading surface. Do not replace it with
-Python scraping, `curl`, web search, or an unofficial benefits site.
+Use the official member website only. For public pages, use `curl` as the
+primary collection and comparison surface. Do not use web search, unofficial
+benefits sites, or other sources.
+
+Use Browser to verify changed records and any content that is not complete in
+the `curl` response (such as JavaScript-rendered lists, accordions, pagination,
+or lazy-loaded venues). If a page requires authentication, ask the user to sign
+in within Browser and do not use another source to bypass authentication.
 
 ## Source pages
 
-Open these pages in Browser:
+Fetch these pages with `curl`; open the relevant page in Browser when
+verification is required:
 
 - Cafe Hour: `https://www.member.myluxurycard.co.jp/serviceinfo/dining/cafe`
 - Lounge Hour: `https://www.member.myluxurycard.co.jp/serviceinfo/dining/bar`
@@ -18,19 +25,26 @@ Open these pages in Browser:
 - Luxury Upgrade: `https://www.member.myluxurycard.co.jp/serviceinfo/dining/luxuryupgrade`
 - Luxury Dining: `https://www.member.myluxurycard.co.jp/serviceinfo/dining/luxurydining`
 
-If a page requires authentication, ask the user to sign in within the selected
-Browser and continue only after they confirm it is ready. Do not switch sources
-to bypass authentication.
-
 ## Workflow
 
-1. Read the Browser control skill completely and connect to the in-app Browser.
-2. Resolve the repository root and inspect the current files under
+1. Resolve the repository root and inspect the current files under
    `data/` before browsing.
-3. Open each requested official page. Expand accordions, pagination, filters, or
-   “load more” controls and scroll through lazy-loaded lists until all visible
-   venues have been inspected.
-4. For every venue, capture only:
+2. Fetch each requested official category page with `curl`, following redirects
+   and failing on HTTP errors. Confirm the returned HTML contains the expected
+   category listing and venue detail links before using it as the source.
+3. Compare the collected official data with the category YAML by normalized
+   venue name and area. Identify new, removed, and field-level changes.
+4. Read the Browser control skill completely and use Browser when either of the
+   following applies:
+   - `curl` did not return the complete category listing or detail content.
+   - A record is new, removed, or has changed benefit, availability, location,
+     URL, address, or important notice.
+
+   In Browser, expand accordions, pagination, filters, or “load more” controls
+   and scroll through lazy-loaded lists until the relevant records are visible.
+   If the official page requires authentication, ask the user to sign in and
+   continue only after they confirm it is ready.
+5. For every added or changed venue, capture only:
    - venue name
    - area
    - prefecture
@@ -40,19 +54,18 @@ to bypass authentication.
    - the venue's official detail URL from the category listing
    - address when the official page provides one
    - important temporary notice
-5. Compare records by normalized venue name and area. Add new venues and update
-   changed fields. Never delete an existing venue merely because its benefit
-   ended:
+6. Add new venues and update verified fields. Never delete an existing venue
+   merely because its benefit ended:
    - Set `active: false` when the official page clearly shows that a benefit
      ended or the venue is no longer eligible.
    - Preserve its last known benefit, hours, location, official detail URL, and
      notice.
    - Set `active: true` for a new or reactivated benefit.
    - Keep the existing flag and report the ambiguity when status is unclear.
-6. Set `last_checked` to the current local date only for a category that was
+7. Set `last_checked` to the current local date only for a category that was
    fully reviewed.
-7. Edit files with `apply_patch`; keep unrelated user changes intact.
-8. Validate the Astro static site:
+8. Edit files with `apply_patch`; keep unrelated user changes intact.
+9. Validate the Astro static site:
 
    ```bash
    npm install
@@ -63,7 +76,7 @@ to bypass authentication.
 
    Confirm that all five YAML files load, inactive venues are absent from the
    generated `dist/index.html`, and the build remains fully static.
-9. Update Google My Maps only when the venue roster or location changed:
+10. Update Google My Maps only when the venue roster or location changed:
     - Benefit details changed: update YAML only. My Maps normally needs no
       change.
     - New venue: add it to YAML, search for the venue in the single shared
@@ -75,8 +88,9 @@ to bypass authentication.
       the marker in My Maps.
     - Never change Google My Maps without an explicit user request, even when
       Browser control is available.
-10. Report which category files changed, whether a manual My Maps change is
-    needed, any ambiguous official information, and the validation results.
+11. Report the categories fetched with `curl`, the records verified in Browser,
+    which category files changed, whether a manual My Maps change is needed,
+    any ambiguous official information, and the validation results.
     Remind the user to restart a running Astro development server after asset
     changes.
 

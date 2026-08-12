@@ -31,6 +31,9 @@ Configure the environment using `.env.example` as a reference.
 | `PUBLIC_SITE_URL` | Base URL for canonical links, Open Graph metadata, and the sitemap |
 | `PUBLIC_MYMAP_URL` | Google My Maps embed URL shared by all categories |
 | `PUBLIC_ADSENSE_CLIENT` | AdSense client ID; the script is omitted when unset |
+| `PUBLIC_GOOGLE_ANALYTICS_ID` | Google Analytics 4 measurement ID; tracking is omitted when unset |
+
+To enable Google Analytics, set `PUBLIC_GOOGLE_ANALYTICS_ID` to a GA4 measurement ID such as `G-XXXXXXXXXX` when building the site.
 
 Set the My Maps URL using the `https://www.google.com/maps/d/embed?mid=...` format.
 All categories share one map, and the same iframe is retained when switching categories.

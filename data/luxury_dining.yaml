@@ -4,6 +4,15 @@ last_checked: 2026-07-24
 source: https://www.member.myluxurycard.co.jp/serviceinfo/dining/luxurydining
 venues:
   - active: true
+    name: "鮨ひのもと"
+    official_url: https://www.member.myluxurycard.co.jp/diningdetail/%E9%AE%A8%E3%81%B2%E3%81%AE%E3%82%82%E3%81%A8
+    area: "芝大門"
+    prefecture: "東京都"
+    region: "関東"
+    benefit: "2名様以上でお任せコース（お一人様30,250円／税・サ料込）をご予約の場合、1名様分を無料でご提供いたします。／※1グループ、6名様までご予約いただけます。／・2名様ご予約の場合、1名様無料／・3名様ご予約の場合、1名様無料／・4名様ご予約の場合、2名様無料／・5名様ご予約の場合、2名様無料／・6名様ご予約の場合、3名様無料／コース内容：希少部位の手巻き、おつまみ4〜5品、握り十数貫、卵焼き、LC会員限定シークレットメニュー"
+    hours: "毎日・全時間帯／営業時間 12:00〜23:30（1部12:00〜、2部18:00〜、3部20:30〜）／コンシェルジュ経由で事前予約"
+    address: "東京都港区芝大門1-4-5 アイムズ芝大門1階"
+  - active: true
     name: "USHIYA KITCHEN"
     official_url: https://www.member.myluxurycard.co.jp/diningdetail/ushiya-kitchen
     area: "赤坂"
