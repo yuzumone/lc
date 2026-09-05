@@ -1,1 +1,0 @@
-# AdSenseの承認後、正式なpublisher IDを設定してください。

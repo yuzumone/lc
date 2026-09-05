@@ -180,7 +180,7 @@ venues:
     region: 関西
     benefit: ウェルカムシャンパン、90分フリーフロー、スナックとチョコレート付き5,000円（税・サービス料込）
     hours: 月〜木・日／17:00〜22:30の間の2時間（最終入店20:30）
-  - active: true
+  - active: false
     name: salon1201
     official_url: https://www.member.myluxurycard.co.jp/diningdetail/salon1201
     area: 北新地
