@@ -43,7 +43,7 @@ venues:
     region: 関東
     benefit: お一人様3,000円（税込）で、ドリンク2杯、ハム＆チーズ、ラム酒の生チョコ
     hours: 全カード会員／18:00〜24:00（日曜定休）
-  - active: true
+  - active: false
     name: AFTERLIFE（アフターライフ）
     official_url: https://www.member.myluxurycard.co.jp/diningdetail/afterlife
     area: 恵比寿
@@ -52,6 +52,15 @@ venues:
     benefit: ドリンク3杯とポップコーン3,000円、クラセアスール3種15,000円、ドン ペリニヨン1本65,000円（税・チャージ込）
     hours: 月〜木 20:00〜翌3:00／金・土 20:00〜翌5:00（日曜定休）
     notice: 2026年9月7日をもって優待終了
+  - active: true
+    name: THE TOKYO CLUB
+    official_url: https://www.member.myluxurycard.co.jp/diningdetail/the-tokyo-club
+    area: 西麻布
+    prefecture: 東京都
+    region: 関東
+    benefit: 会員1名の注文につき同伴者のドリンク1杯サービス（カクテル・グラスワインを含む3,000円（税込）以内）。2名以上で選べるフィンガーフード1品提供。60,000円以下のワイン・シャンパンは30％OFF
+    hours: 全会員・月〜日 20:00〜24:00（LO 23:30）／同伴者は3名まで
+    address: 東京都港区西麻布4丁目1−1 B1
   - active: true
     name: E.O.M.
     official_url: https://www.member.myluxurycard.co.jp/diningdetail/eom

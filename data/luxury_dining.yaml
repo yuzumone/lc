@@ -4,6 +4,15 @@ last_checked: 2026-07-24
 source: https://www.member.myluxurycard.co.jp/serviceinfo/dining/luxurydining
 venues:
   - active: true
+    name: "MIO KOJIMA"
+    official_url: https://www.member.myluxurycard.co.jp/diningdetail/mio-kojima
+    area: "銀座"
+    prefecture: "東京都"
+    region: "関東"
+    benefit: "2名様以上で「シェフのおまかせコース」（15,900円／税込・サ料10%別）をご予約の場合、2名様ごとに1名様分を無料で提供。会員お一人につき6か月に1回利用可"
+    hours: "18:00～L.O.20:30／定休日：不定休"
+    address: "東京都中央区銀座7丁目18-12 銀座川岐ビル 1F"
+  - active: true
     name: "アンティカ・オステリア・デル・ポンテ"
     official_url: https://www.member.myluxurycard.co.jp/diningdetail/%E3%82%A2%E3%83%B3%E3%83%86%E3%82%A3%E3%82%AB%E3%83%BB%E3%82%AA%E3%82%B9%E3%83%86%E3%83%AA%E3%82%A2%E3%83%BB%E3%83%87%E3%83%AB%E3%83%BB%E3%83%9D%E3%83%B3%E3%83%86
     area: "丸の内"
@@ -99,6 +108,7 @@ venues:
     region: "関東"
     benefit: "2名様以上で特別コース（お一人様29,700円／税・サ料込）をご予約の場合、2名様ごとに1名様分のコース料金を無料でご提供いたします（最大3名様分まで）。／※1グループにつき、最大6名様までご予約いただけます。／※ご予約時間を15分以上過ぎてもご連絡がない場合は、自動的にキャンセルとなる場合がございます。／※キャンセル・変更の際は、必ず店舗（TEL：03-5931-1155）までご連絡ください。"
     hours: "月-土 17:00〜23:00／（日曜・祝日除外）／コンシェルジュ経由で事前予約"
+    address: "東京都中央区銀座7-4-5 745ビル"
     notice: "本優待は、2026年10月31日をもちまして終了いたします。"
   - active: true
     name: "焼肉ストーリー　水道橋店"
@@ -325,6 +335,8 @@ venues:
     region: "東海"
     benefit: "2名様以上でLC特別コース（お一人様あたり税込15,000円）をご予約の場合、1名様分を無料でご提供いたします。／※1グループ、6名様までご予約いただけます。／※価格には消費税は含まれており、別途10％のサービス料がかかります。"
     hours: "ディナー 18:00～23:00（20:00 LO フード／22:00 LO ドリンク）／コンシェルジュ経由で事前予約"
+    address: "愛知県名古屋市中村区名駅1-1-3 JRゲートタワー 13階"
+    notice: "本優待は2026年10月31日をもって終了いたします。"
   - active: true
     name: "トリュフ匠 熾火"
     official_url: https://www.member.myluxurycard.co.jp/diningdetail/%E3%83%88%E3%83%AA%E3%83%A5%E3%83%95%E5%8C%A0-%E7%86%BE%E7%81%AB
